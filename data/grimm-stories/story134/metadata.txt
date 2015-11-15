@@ -1,0 +1,3 @@
+name: The Fox and the Geese
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/171.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal086.html

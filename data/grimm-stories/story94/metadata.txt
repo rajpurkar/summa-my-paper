@@ -1,0 +1,3 @@
+name: The Rose
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/143.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal204.html

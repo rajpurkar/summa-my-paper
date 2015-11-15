@@ -1,0 +1,5 @@
+name: A Pair of Silk Stockings
+author: Kate Chopin
+content_link: http://http://americanliterature.com/100-great-short-stories
+summary_link: http://http://americanliterature.com/100-great-short-stories
+date: 11/10/14

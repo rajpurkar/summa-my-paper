@@ -1,0 +1,3 @@
+name: The Owl
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/196.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal175.html

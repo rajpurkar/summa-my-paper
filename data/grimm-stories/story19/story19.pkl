@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/205.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal190.html'
+p5
+sS'summary'
+p6
+S'A peasant is working in his field when he sees a devil sitting on a heap of burning coals. The devil is sitting on a treasure that the peasant may have if gives the devil one-half of everything his garden produces for two years. This first year the devil wants his half to contain everything that grows above the ground, while the peasant will keep what grows below the ground. The peasant agrees and plants turnips that year. Seeing that he has been outsmarted, the devil asks for everything that grows below the ground the next year, so the peasant grows wheat. The devil is cheated and goes away angry.'
+p7
+sS'name'
+p8
+S'The Peasant and the Devil'
+p9
+sS'text'
+p10
+S"There was once upon a time a far-sighted, crafty peasant whose\ntricks were much talked about.  The best story, however, is\nhow he once got hold of the devil, and made a fool of him.\nThe peasant had one day been working in his field, and as\ntwilight had set in, was making ready for the journey home, when\nhe saw a heap of burning coals in the middle of his field,\nand when,\nfull of astonishment, he went up to it, a little black devil\nwas sitting on the live coals.  Are you sitting upon a treasure,\nsaid the peasant.  Yes, in truth, replied the devil, on a treasure\nwhich contains more gold and silver than you have ever seen in\nyour life.  The treasure lies in my field and belongs to me, said\nthe peasant.  It is yours, answered the devil, if you will for\ntwo years give me one half of everything your field produces.\nMoney I have enough, but I have a desire for the fruits of the\nearth.  The peasant agreed to the bargain.  In order, however,\nthat no dispute may arise about the division, said he, everything\nthat is above ground shall belong to you, and what is under the\nearth to me.  The devil was quite satisfied with that, but the\ncunning peasant had sown turnips.\nNow when the time for harvest came, the devil appeared and\nwanted to take away his crop.  But he found nothing but the\nyellow withered leaves, while the peasant, full of delight,\nwas digging up his turnips.  You have had the best of it for once,\nsaid the devil, but the next time that won't do.  What grows\nabove ground shall be yours, and what is under it, mine.  I am\nwilling, replied the peasant.  But when the time came to sow, he\ndid not again sow turnips, but wheat.  The grain became ripe,\nand the peasant went into the field and cut the full stalks\ndown to the ground.  When the devil came, he found nothing but\nthe stubble, and went away in a fury down into a cleft in the\nrocks.  That is the way to cheat the devil, said the\npeasant, and went and fetched away the treasure.\n"
+p11
+sb.

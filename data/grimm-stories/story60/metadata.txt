@@ -1,0 +1,3 @@
+name: The Lazy Spinner
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/180.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal128.html

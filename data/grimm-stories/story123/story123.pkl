@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/032.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal043.html'
+p5
+sS'summary'
+p6
+S'A girl is forbidden by her parents to visit the house of Frau Trude. The girl goes anyway and finds herself in fear when she looks in the window and sees the devil himself. Frau Trude knows the girl has seen her as she really is. For this reason, the girl is turned into a block of wood.'
+p7
+sS'name'
+p8
+S'Frau Trude'
+p9
+sS'text'
+p10
+S'There was once a little girl who was obstinate and inquisitive,\nand when her parents told her to do anything, she did not obey\nthem, so how could she fare well.  One day she said to her\nparents, I have heard so much of frau trude, I will go to her\nsome day.  People say that everything about her does look so\nstrange, and that there are such odd things in her house, that\nI have become quite curious.  Her parents absolutely forbade\nher, and said, frau trude is a bad woman, who does wicked things,\nand if you go to her, you are no longer our child.  But the maiden\ndid not let herself be turned aside by her parents, prohibition,\nand still went to frau trude.  And when she got to her, frau\ntrude said, why are you so pale.  Ah, she replied, and her whole\nbody trembled, I have been so terrified at what I have seen.  What\nhave you seen.  I saw a black man on your steps.  That was a\ncollier.  Then I saw a green man.  That was a huntsman.  After\nthat I saw a blood-red man.  That was a butcher.  Ah, frau\ntrude, I was terrified.  I looked through the window and saw\nnot you, but, as I verily believe, the devil himself with a head\nof fire.  Oho. Said she, then you have seen the witch in her\nproper costume.  I have been waiting for you, and wanting you\na long time already.  You shall give me some light.  Then she\nchanged the girl into a block of wood, and threw it into the\nfire.  And when it was in a full blaze she sat down close to it,\nand warmed herself by it, and said, that shines bright for once\nin a way.\n'
+p11
+sb.

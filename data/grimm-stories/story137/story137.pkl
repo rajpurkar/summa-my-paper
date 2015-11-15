@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/118.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal154.html'
+p5
+sS'summary'
+p6
+S"A girl's parents die and she is left alone. Various beggars ask her for the few possessions she has. As she stands there without anything, money falls from the sky. She gathers the money and is rich for the rest of her life."
+p7
+sS'name'
+p8
+S'The Star-Money'
+p9
+sS'text'
+p10
+S'There was once upon a time a little girl whose father and mother\nwere dead, and she was so poor that she no longer had a room to\nlive in, or bed to sleep in, and at last she had nothing else but\nthe clothes she was wearing and a little bit of bread in her\nhand which some charitable soul had given her.  She was good and\npious, however.  And as she was thus forsaken by all the world,\nshe went forth into the open country, trusting in the good God.\nThen a poor man met her, who said, ah, give me something to eat,\nI am so hungry.  She handed him the whole of her piece of bread,\nand said, may God bless you, and went onwards.  Then came a child\nwho moaned and said, my head is so cold, give me something to\ncover it with.  So she took off her hood and gave it to him.  And\nwhen she had walked a little farther, she met another child who\nhad no jacket and was frozen with cold.  Then she gave it her\nown, and a little farther on one begged for a frock,\nand she gave away that also.  At length she got into a forest\nand it had already become dark, and there came yet another child,\nand asked for a shirt, and the good little girl thought\nto herself, it is a dark night and no one sees you, you can very\nwell give your shirt away, and took it off, and gave away that\nalso.  And as she so stood, and had not one single thing left,\nsuddenly some stars from heaven fell down, and they were nothing\nelse but hard smooth pieces of money, and although she had just\ngiven her shirt away, she had a new one which was of the very\nfinest linen.  Then she put the money into it, and was rich all\nthe days of her life.\n'
+p11
+sb.

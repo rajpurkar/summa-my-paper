@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/189.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal163.html'
+p5
+sS'summary'
+p6
+S'A master sends his servant to look for his cow. Instead the boy chases blackbirds.'
+p7
+sS'name'
+p8
+S'The Wise Servant'
+p9
+sS'text'
+p10
+S'How fortunate is the master, and how well all goes in his\nhouse, when he has a wise servant who listens to his orders\nand does not obey them, but prefers following his own wisdom.  A\nclever Hans of this kind was once sent out by his master to seek a\nlost cow.  He stayed away a long time, and the master thought,\nfaithful Hans does not spare any pains over his work.  But when\nhe did not come back at all, the master was afraid lest some\nmisfortune had befallen him, and set out himself to look for\nhim.  He had to search a long time, but at last he caught sight\nof the boy running up and down a large field.  Now, dear Hans,\nsaid the master when he had got up to him, have you found the cow\nwhich I sent you to\nseek.  No, master, he answered, I have not found the cow, but\nthen I have not looked for it.  Then what have you looked for,\nHans.  Three blackbirds, answered the boy.  And where are they,\nasked the master.  I see one of them, I hear the other, and I\nam running after the third, answered the wise boy.\nTake example by this, do not trouble yourselves about your\nmasters or their orders, but rather do what comes into your\nhead and pleases you, and then you will act just as wisely as\nclever Hans.\n'
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/117.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal153.html'
+p5
+sS'summary'
+p6
+S"A shepherd boy is famous for wise answers. The king tells the boy if he is pleased with the boy's answers to three questions, he will adopt the boy and regard him as his own son. The boy gives wise answers and the king adopts him."
+p7
+sS'name'
+p8
+S'The Shepherd Boy'
+p9
+sS'text'
+p10
+S'There was once upon a time a shepherd boy whose fame spread\nfar and wide because of the wise answers which he gave to every\nquestion.  The king of the country heard of it likewise, but\ndid not believe it, and sent for the boy.  Then he said to\nhim, if you can give me an answer to three questions which I\nwill ask you, I will look on you as my own child, and you shall\ndwell with me in my royal palace.  The boy said, what are the\nthree questions.  The king said, the first is, how many drops\nof water are there in the ocean.  The shepherd boy answered, lord\nking, if you will have all the rivers on earth dammed up so that\nnot a single drop runs from them into the sea until I have\ncounted it, I will tell you how many drops there are in the sea.\nThe king said, the next question is, how many stars are there\nin the sky.  The shepherd boy said, give me a great sheet of\nwhite paper, and then he made so many fine points on it with a\npen that they could\nscarcely be seen, and it was all but impossible to count them,\nany one who looked at them would have lost his sight.  Then he\nsaid, there are as many stars in the sky as there are points\non the paper.  Just count them.  But no one was able to do it.\nThe king said, the third question is, how many seconds of time\nare there in eternity.  Then said the shepherd boy, in\nlower pomerania is the diamond mountain, which is two miles\nhigh, two miles wide, and two miles deep.  Every hundred\nyears a little bird comes and sharpens its beak on it, and\nwhen the whole mountain is worn away by this, then the first\nsecond of eternity will be over.\nThe king said, you have answered the three questions like a\nwise man, and shall henceforth dwell with me in my royal\npalace, and I will regard you as my own child.\n'
+p11
+sb.

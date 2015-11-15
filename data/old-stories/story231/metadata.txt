@@ -1,0 +1,5 @@
+name: The Man in the Brown Coat
+author: Sherwood Anderson
+content_link: http://http://americanliterature.com/100-great-short-stories
+summary_link: http://http://americanliterature.com/100-great-short-stories
+date: 11/10/14

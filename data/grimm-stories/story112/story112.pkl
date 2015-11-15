@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/156.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal030.html'
+p5
+sS'summary'
+p6
+S'In this story the accidental burning of a louse sets off a chain of events which ultimately concludes with a spring overflowing its banks and destroying everything. '
+p7
+sS'name'
+p8
+S'The Louse and the Flea'
+p9
+sS'text'
+p10
+S'A louse and a flea kept house together and were brewing beer\nin an egg-shell.  Then the little louse fell in and burnt\nherself.  At this the little flea began to scream loudly. Then\nsaid the little room-door, little flea, why are you screaming.\nBecause the louse has burnt herself.\nThen the little door began to creak.  At this a little broom in\nthe corner said, why are you creaking, little door.  Have I not\nreason to creak.\n          The little louse has burnt herself,\n          the little flea is weeping.\nSo the little broom began to sweep frantically.  Then a little cart\npassed by and said, why are you sweeping, little broom.  Have\nI not reason to sweep.\n          The little louse has burnt herself,\n          the little flea is weeping,\n          the little door is creaking.\nSo the little cart said, then I will run, and began to run like\nmad.  Then said the ash-heap by which it ran, why are you running\nso, little cart.  Have I not reason to run.\n          The little louse has burnt herself,\n          the little flea is weeping,\n          the little door is creaking,\n          the little broom is sweeping.\nThe ash-heap said, then I will burn furiously, and began to burn\nin clear flames.  A little tree stood near the ash-heap and\nsaid, ash-heap, why are you burning.  Have I not reason to burn.\n          The little louse has burnt herself,\n          the little flea is weeping,\n          the little door is creaking,\n          the little broom is sweeping,\n          the little cart is running.\nThe little tree said, then I will shake myself, and began to\nshake herself so that all her leaves fell off.  A girl who came\nup with her water-pitcher saw that, and said, little tree, why are\nyou shaking yourself.  Have I not reason to shake myself.\n          The little louse has burnt herself,\n          the little flea is weeping,\n          the little door is creaking,\n          the little broom is sweeping,\n          the little cart is running,\n          the little ash-heap is burning.\nAt this the girl said, then I will break my little water-pitcher.\nAnd she broke her little water-pitcher.  Then said the little\nspring from which ran the water, girl, why are you breaking your\nwater-pitcher.  Have I not reason to break my water-pitcher.\n          The little louse has burnt herself,\n          the little flea is weeping,\n          the little door is creaking,\n          the little broom is sweeping,\n          the little cart is running,\n          the little ash-heap is burning,\n          the little tree is shaking itself.\nOh, ho, said the spring, then I will begin to flow, and began\nto flow violently.  And in the water everything was drowned,\nthe girl, the little tree, the little ash-heap, the little\ncart, the broom, the little door, the little flea, the little\nlouse, all together.\n'
+p11
+sb.

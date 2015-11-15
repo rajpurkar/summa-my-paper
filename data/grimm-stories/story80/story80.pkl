@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/088.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal115.html'
+p5
+sS'summary'
+p6
+S'A tailor finds a Jew on the road. He believes the Jew will have money with him so the tailor beats the Jew and demands money. The Jew says he has only eight farthings. As the Jew dies, his last words are: "The bright sun will bring it to light". The tailor assumes this saying refers to the Jew\'s money. Years later the man is drinking coffee at his home. The bright sunlight throws reflections off the ceiling and the man repeats the saying. The wife asks what it means. He tells her about the murder and begs her not to tell anyone. She spreads the story about town. Her husband is put on trial for murder and sentenced to death.'
+p7
+sS'name'
+p8
+S'The Bright Sun Brings It to Light'
+p9
+sS'text'
+p10
+S"A tailor's apprentice was traveling about the world in search of\nwork, and at one time he could find none, and his poverty was so\ngreat that he had not a farthing to live on.  Presently he met a Jew\non the road, and as he thought he would have a great deal of money\nabout him, the tailor thrust God out of his heart, fell on the Jew,\nand said, give me your money, or I will strike you dead.  Then said\nthe Jew, grant me my life, I have no money but eight farthings.  But\nthe tailor said, money you have, and it shall be produced, and used\nviolence and beat him until he was near death.  And when the Jew was\ndying, the last words he said were, the bright sun will bring it to\nlight, and thereupon he died.  The tailor's apprentice felt in his\npockets and sought for money, but he found nothing but eight\nfarthings, as the Jew had said.  Then he took him up and carried him\nbehind a clump of trees, and went onwards to seek work.  After he had\ntraveled about a long while, he found work in a town with a master\nwho had a pretty daughter, with whom he fell in love, and he married\nher, and lived in good and happy wedlock.\n\nAfter a long time when he and his wife had two children, the wife's\nfather and mother died, and the young people kept house alone.  One\nmorning, when the husband was sitting on the table before the window,\nhis wife brought him his coffee, and when he had poured it out into\nthe saucer, and was just going to drink, the sun shone on it and the\nreflection gleamed hither and thither on the wall above, and made\ncircles on it.  Then the tailor looked up and said, yes, it would\nlike very much to bring it to light, and cannot.  The woman said, o,\ndear husband, and what is that, then.  What do you mean by that.  He\nanswered, I must not tell you.  But she said, if you love me, you\nmust tell me, and used her most affectionate words, and said that no\none should ever know it, and left him no rest.  Then he told her how\nyears ago, when he was traveling about seeking work and quite worn\nout and penniless, he had killed a Jew, and that in the last agonies\nof death, the Jew had spoken the words, the bright sun will bring it\nto light.  And now, the sun had just wanted to bring it to light, and\nhad gleamed and made circles on the wall, but had not been able to do\nit.  After this, he again charged her particularly never to tell\nthis, or he would lose his life, and she did promise.  However, when\nhe had sat down to work again, she went to her great friend and\nconfided the story to her, and asked her never to repeat it to any\nhuman being, but before three days were over, the whole town knew it,\nand the tailor was brought to trial, and condemned.  And thus, after\nall, the bright sun did bring it to light.\n"
+p11
+sb.

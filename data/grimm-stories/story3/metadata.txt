@@ -1,0 +1,3 @@
+name: The Three Snake-Leaves
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/013.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal016.html

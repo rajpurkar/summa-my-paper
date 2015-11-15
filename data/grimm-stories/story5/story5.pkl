@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/174.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal098.html'
+p5
+sS'summary'
+p6
+S'A peasant sees a doctor\'s richness and desires it for himself. He is told that all he has to do to be a doctor is buy an A B C book, trade his wagon and oxen for money, and nail a sign to his door that reads "Doctor Knowall". A great lord calls for the doctor to solve the mystery of his stolen money. Through luck, the doctor is able to solve the mystery.'
+p7
+sS'name'
+p8
+S'Doctor Knowall'
+p9
+sS'text'
+p10
+S"There was once upon a time a poor peasant called crabb, who drove\nwith two oxen a load of wood to the town, and sold it to a doctor\nfor two talers.  When the money was being counted out to him, it\nso happened that the doctor was sitting at table, and when the\npeasant saw how well he ate and drank, his heart desired what he\nsaw, and he would willingly have been a doctor too.  So he\nremained standing a while, and at length inquired if he too could\nnot be a doctor.  Oh, yes, said the doctor, that is soon managed.\nWhat must I do, asked the peasant.  In the first place buy\nyourself an abc book of the kind which has a cock on the\nfrontispiece.  In the second, turn your cart and your two oxen\ninto money, and get yourself some clothes, and whatsoever else\npertains to medicine.  Thirdly, have a sign painted for yourself\nwith the words, I am doctor knowall, and have that nailed up above\nyour house-door.  The peasant did everything that he had been\ntold to do.  When he had doctored people awhile, but not long, a\nrich and great lord had some money stolen.  Then he was told about\ndoctor knowall who lived in such and such a village, and must know\nwhat had become of the money.  So the lord had the horses\nharnessed to his carriage, drove out to the village, and asked\ncrabb if he were doctor knowall.  Yes, he\nwas, he said.  Then he was to go with him and bring back the stolen\nmoney.  Oh, yes, but grete, my wife, must go too.  The lord was\nwilling and let both of them have a seat in the carriage, and\nthey all drove away together.  When they came to the nobleman's\ncastle, the table was spread, and crabb was told to sit down and\neat.  Yes, but my wife, grete, too, said he, and he seated himself\nwith her at the table.  And when the first servant came with a\ndish of delicate fare, the peasant nudged his wife, and said,\ngrete, that was the first.  Meaning that was the servant who\nbrought the first dish.  The servant, however, thought he\nintended by that to say, that is the first thief, and as he\nactually was so, he was terrified, and said to his comrade\noutside, the doctor knows all, we shall fare ill, he said I was\nthe first.  The second did not want to go in at all, but was\nforced.  So when he went in with his dish, the peasant nudged his\nwife, and said, grete, that is the second.  This servant was\nequally alarmed, and he got out as fast as he could.  The third\nfared no better, for the peasant again said, grete, that is the\nthird.  The fourth had to carry in a dish that was covered, and the\nlord told the doctor that he was to show his skill, and guess\nwhat was beneath the cover.  Actually, there were crabs.  The\ndoctor looked at the dish, had no idea what to say, and cried,\nah, poor crabb.  When the lord heard that, he cried, there.  He\nknows it, he must also know who had the money.\nOn this the servants looked terribly uneasy, and made a sign\nto the doctor that they wished him to step outside for a moment.\nWhen therefore he went out, all four of them confessed to him\nthat they had stolen the money, and said that they would\nwillingly restore it and give him a heavy sum into the bargain,\nif he would not denounce them, for if he did they would be hanged.\nThey led him to the spot where the money was concealed.  With\nthis the doctor was satisfied, and returned to the hall, sat\ndown to the table, and said, my lord, now will I search in my book\nwhere the gold is hidden.  The fifth servant, however, crept\ninto the stove to hear if the doctor knew still more.  But the\ndoctor sat still and opened his abc book, turned the pages\nbackwards and forwards, and looked for the cock.  As he could not\nfind it immediately he said, I know you are there, so you had\nbetter come out.  Then the fellow in the stove thought that the\ndoctor meant him, and full of terror, sprang out, crying, that\nman knows everything.  Then Dr. Knowall showed the lord where the\nmoney was, but did not say who had stolen it, and received from\nboth sides much money in reward, and became a renowned man.\n"
+p11
+sb.

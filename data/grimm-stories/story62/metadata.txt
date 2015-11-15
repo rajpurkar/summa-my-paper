@@ -1,0 +1,3 @@
+name: The Story of Schlauraffen Land
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/186.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal159.html

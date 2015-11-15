@@ -1,0 +1,3 @@
+name: The Ear of Corn
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/137.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal195.html

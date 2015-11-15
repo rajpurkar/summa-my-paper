@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/167.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal075.html'
+p5
+sS'summary'
+p6
+S'A cat meets with a fox and believes the fox to be clever and highly intelligent. When the fox speaks to the cat, he is arrogant. The hounds get after both the cat and the fox. The cat climbs a tree and gets away. The fox is caught.'
+p7
+sS'name'
+p8
+S'The Fox and the Cat'
+p9
+sS'text'
+p10
+S'It happened that the cat met the fox in a forest, and as she\nthought to herself, he is clever and full of experience, and\nmuch esteemed in the world, she spoke to him in a friendly\nway.  Good-day, dear mr. Fox, how are you.  How is all with\nyou.  How are you getting on in these hard times.  The fox,\nfull of all kinds of arrogance, looked at the cat from head\nto foot, and for a long time\ndid not know whether he would give any answer or not.  At last\nhe said, oh, you wretched beard-cleaner, you piebald fool, you\nhungry mouse-hunter, what can you be thinking of.  Have you the\ncheek to ask how I am getting on.  What have you learnt.  How\nmany arts do you understand.  I understand but one, replied\nthe cat, modestly.  What art is that, asked the fox.  When\nthe hounds are following me, I can spring into a tree and\nsave myself.  Is that all, said the fox.  I am master of a\nhundred arts, and have into the bargain a sackful of cunning.\nYou make me sorry for you.  Come with me, I will teach you\nhow people get away from the hounds.  Just then came a hunter\nwith four dogs.  The cat sprang nimbly up a tree, and sat\ndown on top of it, where the branches and foliage quite\nconcealed her.  Open your sack, mr. Fox, open your sack, cried\nthe cat to him, but the dogs had already seized him, and\nwere holding him fast.  Ah, mr. Fox, cried the cat.  You with\nyour hundred arts are left in the lurch.  Had you been able\nto climb like me, you would not have lost your life.\n'
+p11
+sb.

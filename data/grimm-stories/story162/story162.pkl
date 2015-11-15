@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/176.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal112.html'
+p5
+sS'summary'
+p6
+S"A man sells his oxen. To formulate his price, he takes the butcher a peck of seeds. For each seed in the peck the man will receive one taler. The man drops one seed from his peck on the way to the butcher's shop. As he returns home, the man notices the seed has grown into a tree that reached to heaven. The man climbs the tree to see what the angels are doing. The tree begins to sway because someone is cutting it down. The man grabs a hoe and a flail and makes himself a rope to lower himself down. He lands in a deep hole and uses the flail to get out. He keeps the flail as proof his story is true. "
+p7
+sS'name'
+p8
+S'The Flail from Heaven'
+p9
+sS'text'
+p10
+S'A countryman was once going out to plough with a pair of oxen.\nWhen he got to the field, both the animals, horns began to grow,\nand went on growing, and when he wanted to go home they were so\nbig that the oxen could not get through the gateway.  By good\nluck a butcher came by just then, and he delivered them over to\nhim, and made the bargain in this way, that he should bring the\nbutcher a peck of rape-seed, and then the butcher was to count him\nout a brabant taler for every seed.  I call that well sold.  The\npeasant now went home, and carried the peck of rape-seed to him on\nhis back.  On the way, however, he lost one seed out of the bag.\nThe butcher paid him justly as agreed on, and if the peasant had\nnot lost the seed, he would have had one taler more.  By the time\nhe returned, the seed had grown into a tree which reached up to\nthe sky.  Then thought the peasant, as you have the chance,\nyou must just see what the angels are doing up there above.  So\nhe climbed up, and saw that the angels above were threshing oats,\nand he looked on.  While he was thus watching them, he observed\nthat the tree on which he was standing, was beginning to totter.\nHe peeped down, and saw that someone was just going to cut it\ndown.  If I were to fall down from hence\nit would be a bad thing, thought he, and in his extremity he did\nnot know how to save himself better than by taking the chaff of the\noats which lay there in heaps, and twisting a rope of it.  He\nlikewise snatched a hoe and a flail which were lying about in\nheaven, and let himself down by the rope.  But he came down on\nthe earth exactly in the middle of a deep, deep hole.  So it was\na real stroke of luck that he had brought the hoe, for he hoed\nhimself a flight of steps with it, and mounted up, and took the\nflail with him as a token of his truth, so that no one could have\nany doubt of his story.\n'
+p11
+sb.

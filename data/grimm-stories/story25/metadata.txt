@@ -1,0 +1,3 @@
+name: Faithful John
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/005.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal006.html

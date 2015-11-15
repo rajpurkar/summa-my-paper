@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/100.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal131.html'
+p5
+sS'summary'
+p6
+S'A wooer must ask permission from five relatives before he is allowed to marry his sweetheart. He learns her dowry is only fourteen farthings, three and a half grosen, and a little food. She learns he is merely a broom-maker.'
+p7
+sS'name'
+p8
+S'Fair Katrinelje and Pif-Paf-Poltrie'
+p9
+sS'text'
+p10
+S'"Good-day, father hollenthe." "Many thanks, pif-paf-poltrie." "May I\nbe allowed to have your daughter?" "Oh, yes, if mother malcho\nmilchcow, brother high-and-mighty, sister kasetraut, and fair\nkatrinelje are willing, you can have her." "Where is mother malcho,\nthen?" "She is in the cow-house, milking the cow."\n\n"Good-day, mother malcho." "Many thanks, pif-paf-poltrie." "May I be\nallowed to have your daughter?" "Oh, yes, if father hollenthe,\nbrother high-and-mighty, sister kasetraut, and fair katrinelje are\nwilling, you can have her." "Where is brother high-and-mighty, then?"\n"He is in the room chopping some wood."\n\n"Good-day, brother high-and-mighty." "Many thanks, pif-paf-poltrie."\n"May I be allowed to have your sister?" "Oh, yes, if father\nhollenthe, mother malcho, sister kasetraut, and fair katrinelje are\nwilling, you can have her." "Where is sister kasetraut, then?" "She\nis in the garden cutting cabbages."\n\n"Good-day, sister kasetraut." "Many thanks, pif-paf-poltrie." "May I\nbe allowed to have your sister?" "Oh, yes, if father hollenthe,\nmother malcho, brother high-and-mighty, and fair katrinelje are\nwilling, you may have her." "Where is fair katrinelje, then." "She is\nin the room counting out her farthings."\n\n"Good day, fair katrinelje." "Many thanks, pif-paf-poltrie." "Will\nyou be my bride?" "Oh, yes, if father hollenthe, mother malcho,\nbrother high-and-mighty, and sister kasetraut are willing, I am\nready."\n\n"Fair katrinelje, how much dowry do you have?" "Fourteen farthings in\nready money, three and a half groschen owing to me, half a pound of\ndried apples, a handful of pretzels, and a handful of roots.\n\tAnd many other things are mine,\n\tHave I not a dowry fine?"\n\n"Pif-paf-poltrie, what is your trade?  Are you a tailor?" "Something\nbetter." "A shoemaker?" "Something better." "A husbandman?"\n"Something better." "A joiner?" "Something better." "A smith?"\n"Something better." "A miller?" "Something better." "Perhaps a\nbroom-maker?" "Yes, that\'s what I am, is it not a fine trade?"\n'
+p11
+sb.

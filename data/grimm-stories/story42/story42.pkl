@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/119.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal155.html'
+p5
+sS'summary'
+p6
+S'The ghost of a dead child tries to remove two farthings from the floorboards of its home. The child was supposed to give the farthings to a poor man but instead kept them for herself. The child is unable to rest in its grave until the farthings are found and given to the beggar.'
+p7
+sS'name'
+p8
+S'The Stolen Farthings'
+p9
+sS'text'
+p10
+S"A father was one day sitting at dinner with his wife and his\nchildren, and a good friend who had come on a visit ate with\nthem.  And as they thus sat, and it was striking twelve o'clock,\nthe stranger saw the door open, and a very pale child dressed\nin snow-white clothes came in.  It did not look around, and it\ndid not speak, but went straight into the next room.  Soon\nafterwards it came back, and went out at the door again in the\nsame quiet manner.  On the second and on the third day, it came\nalso exactly in the same way.  At last the stranger asked the\nfather to whom the beautiful child that went into the next room\nevery day at noon belonged.  I have never seen it, said he,\nneither did he know to whom it could belong.  The next day when\nit again came, the stranger pointed it out to the father, who\nhowever did not see it, and the mother and the children also\nall saw nothing.  At this the stranger got up, went to the room\ndoor, opened it a little, and peeped in.  Then he saw the child\nsitting on the ground, and busily digging and seeking about\nbetween the boards of the floor, but\nwhen it saw the stranger, it disappeared.  He now told what\nhe had seen and described the child exactly, and the mother\nrecognized it, and said, ah, it is my dear child who died a\nmonth ago.  They took up the boards and found two farthings\nwhich the child had once received from its mother that it\nmight give them to a poor man.  It, however, had thought, you\ncan buy yourself a biscuit for that, and had kept the farthings,\nand hidden them in the openings between the boards.  And therefore\nit had had no rest in its grave, and had come every day at noon\nto seek for these farthings.  The parents gave the money at\nonce to a poor man, and after that the child was never seen again.\n"
+p11
+sb.

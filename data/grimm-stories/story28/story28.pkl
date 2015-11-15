@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/202.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal184.html'
+p5
+sS'summary'
+p6
+S'A boasting tailor meets a giant. The giant asks what the man wants and he responds he wants a piece of bread. The giant proposes the man work for him. The tailor agrees but secretly seeks some way to get away from the giant. His first task is to bring the giant a drink. The tailor sarcastically mentions he should bring the entire spring and well. The giant is troubled at this saying. Next the giant asks the tailor to cut down a few blocks of wood. The tailor again mocks the giant and says he will cut the entire forest down. Finally the giant asks for the tailor to kill a wild boar for supper. The tailor boasts he will kill one thousand boars with one shot. Here the giant suggests they just go to bed. The next...'
+p7
+sS'name'
+p8
+S'The Giant and the Tailor'
+p9
+sS'text'
+p10
+S"A certain tailor who was great at boasting but ill at doing,\ntook it into his head to go abroad for a while, and look about\nthe world.  As soon as he could manage it, he left his\nwork-shop, and wandered on his way, over hill and dale,\nsometimes hither, sometimes, thither, but ever on and on.  Once on\nhis way he perceived in the blue distance a steep hill, and behind\nit a tower\nreaching to the clouds, which rose up out of a wild dark forest.\nThunder and lightning, cried the tailor, what is that, and as he\nwas strongly goaded by curiosity, he went boldly towards it. But\nhow he did gaze and gape when he came near it, for the tower had\nlegs, and leapt in one bound over the steep hill, and was now\nstanding as an all-powerful giant before him.  What do you want here,\nyou tiny fly's leg, cried the giant, with a voice as if it were\nthundering on every side.  The tailor whimpered, I want just to\nlook about and see if I can earn a bit of bread for myself, in\nthis forest.  If that is what you are after, said the giant,\nyou may have a place with me.  If it must be, why not.  What wages\nshall I receive.  You shall hear what wages you shall have.  Every\nyear three hundred and sixty-five days, and when it is leap-year,\none more into the bargain.  Does that suit you.  All right,\nreplied the tailor, and thought, in his own mind, a man must cut\nhis coat according to his cloth.  I will try to get away as fast as\nI can.\nAt this the giant said to him, go, little ragamuffin, and fetch\nme a jug of water.  Had I not better bring the well itself\nat once, and the spring too, asked the boaster, and went with the\npitcher to the water.  What, the well and the spring too, growled\nthe giant in his beard, for he was somewhat of a silly dolt, and\nbegan\nto be afraid.  That knave is not a fool, he has a mandrake in\nhis body.  Be on your guard, old Hans, this is no serving-man for\nyou.  When the tailor had brought the water, the giant bade\nhim go into the forest, and cut a couple of blocks of\nwood and bring them back.  Why not the whole forest, at once,\nwith one stroke.  The whole forest, young and old, with\nall that is there, both gnarled and smooth, and the well and its\nspring too, growled the credulous giant in his beard, and was still\nmore terrified.  The knave can do much more than bake apples, and\nhas a mandrake in his body.  Be on your guard, old Hans, this is\nno serving-man for you.  When the tailor had brought the wood, the\ngiant commanded\nhim to shoot two or three wild boars for supper.  Why not\nrather a thousand at one shot, and bring them all here, inquired\nthe insolent tailor.  What, cried the timid giant in great terror.\nLet well alone to-night, and lie down to rest.\nThe giant was so terribly alarmed that he could not close an\neye all night long for thinking what would be the best way to\nget rid of this accursed sorcerer of a servant.  Time\nbrings counsel.  Next morning the giant and the tailor went to a\nmarsh, round which stood a number of willow-trees.  Then said\nthe giant, listen, tailor, seat yourself on one of the\nwillow-branches.  I long of all things to see if you are big enough\nto bend it down.  All at once the tailor was sitting on it, holding\nhis breath, and making himself heavy, so heavy that the bough\nbent down.  When, however, he was compelled to draw breath, it\nhurled him - for unfortunately he had not put his goose in his\npocket - so high into the air that he never was seen again, and\nthis to the great delight of the giant.  If the tailor has not\nfallen down again, he must still be hovering about in the air.\n"
+p11
+sb.

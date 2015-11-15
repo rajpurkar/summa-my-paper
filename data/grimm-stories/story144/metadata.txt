@@ -1,0 +1,3 @@
+name: The Lord's Animals and the Devil's
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/182.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal148.html

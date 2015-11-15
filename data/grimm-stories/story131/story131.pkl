@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/203.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal185.html'
+p5
+sS'summary'
+p6
+S"A merchant is on the way home from the fair with his gold. As he stops for rest, a stable boy mentions the merchant's horse is missing a nail in one of his shoes. Instead of taking care of the problem, the merchant decides to go on home. At the next stop, the stable boy warns the merchant his horse is missing a shoe. The merchant ignores the problem and continues on. Soon his horse begins to limp, then stumbles and falls. In the fall, the horse breaks a leg and must be left behind. The man is forced to carry his chest of gold on his own back. "
+p7
+sS'name'
+p8
+S'The Nail'
+p9
+sS'text'
+p10
+S"A merchant had done good business at the fair.  He had sold his\nwares, and lined his money-bags with gold and silver.  Then he\nwanted to travel homewards, and be in his own house before\nnightfall.  So he packed his trunk with the money on his horse,\nand rode away.\nAt noon he rested in a town, and when he wanted to go farther\nthe stable-boy brought out his horse and said, a nail is\nwanting, sir, in the shoe of its near hind foot.  Let it be\nwanting, answered the merchant.  The shoe will certainly stay on\nfor the six miles I have still to go.  I am in a hurry.\nIn the afternoon, when he once more alighted and had his horse\nfed, the stable-boy went into the room to him and said, sir, a\nshoe is missing from your horse's near hind foot.  Shall I take\nhim to the blacksmith.  Let it be wanting, answered the man.\nThe horse can very well hold out for the couple of miles which\nremain.  I am in haste.\nHe rode forth, but before long the horse began to limp.  It had\nnot limped long before it began to stumble, and it had not\nstumbled long before it fell down and broke its leg.  The\nmerchant was forced\nto leave the horse where it was, and unbuckle the trunk, take it\non his back, and go home on foot.  And there he did not arrive\nuntil quite late at night.  And that cursed nail, said he to\nhimself, has caused all this disaster.\nThe more haste the less speed.\n"
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/188.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal161.html'
+p5
+sS'summary'
+p6
+S'A woman is turned into a flower in the daytime but allowed to be home at night. She asks her husband to go out in the morning and pick her so she can stay at home always. How did the husband know which flower to pick? Because she was at home at night, she was the one with no dew on her.'
+p7
+sS'name'
+p8
+S'A Riddling Tale'
+p9
+sS'text'
+p10
+S'Three women were transformed into flowers which grew in\nthe field, but one of them was allowed to be in her own home at\nnight.  Then once when day was drawing near, and she was forced to\ngo back to her companions in the field and become a flower again,\nshe said to her husband, if you will come this afternoon and\ngather me, I shall be set free and henceforth stay with you.  And\nhe did so.  Now the question is, how did her husband know her, for\nthe flowers were exactly alike, and without any difference.\nAnswer - as she was at her home during the night and not in the\nfield, no dew fell on her as it did on the others, and by this\nher husband knew her.\n'
+p11
+sb.

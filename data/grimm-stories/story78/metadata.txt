@@ -1,0 +1,3 @@
+name: Fitcher's Bird
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/035.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal046.html

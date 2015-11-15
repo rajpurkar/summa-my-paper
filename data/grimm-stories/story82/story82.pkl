@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/057.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal074.html'
+p5
+sS'summary'
+p6
+S'A she-wolf invites a fox to be godfather of her child. The fox agrees. When the fox asks the wolf to catch food for the child, the fox lies down and rests as the wolf goes for a lamb. The wolf is caught and doused with a burning mixture. When the wolf drags herself back to the fox, the fox pretends he has been hurt by a farmer. Although the wolf can barely walk, she carries the uninjured fox to safety. When they are safe, the fox runs away laughing at the faithful wolf. '
+p7
+sS'name'
+p8
+S'Gossip Wolf and the Fox'
+p9
+sS'text'
+p10
+S'The she-wolf brought into the world a young one, and invited the fox\nto be godfather.  After all, he is a near relative of ours, said she,\nhe has a good understanding, and much talent, he can instruct my\nlittle son, and help him forward in the world.  The fox, too,\nappeared quite honest, and said, worthy mrs. Gossip, I thank you for\nthe honor which you are doing me, I will, however, conduct myself in\nsuch a way that you shall be repaid for it.  He enjoyed himself at\nthe feast, and made merry, afterwards he said, dear mrs. Gossip, it\nis our duty to take care of the child, it must have good food that it\nmay be strong.  I know a sheep-fold from which we might fetch a nice\nmorsel.  The wolf was pleased with the idea, and she went out with\nthe fox to the farmyard.  He pointed out the fold from afar, and\nsaid, you will be able to creep in there without being seen, and in\nthe meantime I will look about on the other side to see if I can pick\nup a chicken.  He, however, did not go there, but sat down at the\nentrance to the forest, stretched his legs and rested.\n\nThe she-wolf crept into the stable.  A dog was lying there, and it\nmade such a noise that the peasants came running out, caught gossip\nwolf, and poured a strong burning mixture, which had been prepared\nfor washing, over her skin.  At last she escaped, and dragged herself\noutside.  There lay the fox, who pretended to be full of complaints,\nand said, ah, dear mrs. Gossip, how ill I have fared, the peasants\nhave fallen on me, and have broken every limb I have, if you do not\nwant me to lie where I am and perish, you must carry me away.  The\nshe-wolf herself was only able to walk slowly, but she was in such\nconcern about the fox that she took him on her back, and slowly\ncarried him who was perfectly safe and sound to her house.  Then the\nfox cried to her, farewell, dear mrs. Gossip, may the roasting you\nhave had do you good, laughed heartily at her, and bounded off.\n'
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/169.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal080.html'
+p5
+sS'summary'
+p6
+S"A hen and a cock go to a nut hill to find nuts. Instead of sharing the nut she finds, the hen eats the entire nut by herself. It becomes stuck in her throat and her husband goes to fetch some water. By the time the cock has gotten the water, the hen has died. The cock's cries attract a group of animal and together they prepare to bury the hen. The procession reaches a stream. They attempt to cross the stream and the entire party, with the exception of the cock and dead hen, fall into the water and are drowned. The cock is left to bury the hen on his own. "
+p7
+sS'name'
+p8
+S'The Death of the Little Hen'
+p9
+sS'text'
+p10
+S'Once upon a time the little hen went with the little cock\nto the nut-hill, and they agreed together that whichsoever of\nthem found a kernel of a nut should share it with the other.\nThen the hen found a large, large nut, but said nothing about\nit, intending to eat the kernel herself.  The kernel, however,\nwas so large that she could not swallow it, and it remained\nsticking in her throat, so that she was alarmed lest she should\nbe choked.  Then she cried, cock, I entreat you to run as fast\nas you can and fetch me some water, or I shall choke.  The little\ncock did run as fast as he could to the spring, and said, stream,\nyou are to give me some water, the little hen is lying on the\nnut-hill, and she has swallowed a large nut, and is choking.  The\nwell answered, first run to the bride, and get her to give you\nsome red silk.  The little cock ran to the bride and said, bride,\nyou are to give me some red silk, I want to give red silk to the\nwell, the well is to give me some water, I am to take the water\nto the little hen who is lying on the nut-hill and has\nswallowed a great nut-kernel, and is choking with it.  The bride\nanswered, first run and bring me my little wreath which is\nhanging to a willow.  So the little cock ran to the willow, and\ndrew the wreath from the branch and took it to the bride, and\nthe bride gave him some red silk for it, which he took to the\nwell, who gave him some water for it.  Then the little cock took\nthe water to the hen, but when he got there the hen had choked in\nthe meantime, and lay there dead and did not move.  Then the\ncock was so distressed that he cried aloud, and every animal\ncame to lament the little hen, and six mice built a little\ncarriage to carry her to her grave, and when the carriage was\nready they harnessed themselves to it, and the cock drove.  On\nthe way, however, they met the fox, who said, where are you\ngoing, little cock.  I am going to bury my little hen.  May\nI drive with you.  Yes, but seat yourself at the back of the\ncarriage, for in the front my little horses could not drag you.\nThen the procession went onwards, and they reached a stream.\nHow are we to cross over, said the little cock.  A straw was\nlying by the stream and it said, I will lay myself straight\nacross, and then you\ncan drive over me.  But when the six mice came to the bridge,\nthe straw slipped and fell into the water, and the six mice\nall fell in and were drowned.  Then they were again in difficulty,\nand a coal came and said, I am large enough, I will lay myself\nacross, and you shall drive over me.  So the coal also laid\nitself across the water, but unhappily just touched it, at which\nthe coal hissed, was extinguished and died.  When a stone saw\nthat, it took pity on the little cock, wished to help him, and\nlaid itself over the water.  Then the cock drew the carriage\nhimself, but when he got it over and reached the shore with the\ndead hen, and was about to draw over the others who were sitting\nbehind as well, there were too many of them, the carriage ran\nback, and they all fell into the water together, and were drowned.\nThen the little cock was left alone with the dead hen, and dug a\ngrave for her and laid her in it, and made a mound above it, on\nwhich he sat down and fretted until he died too, and then everyone\nwas dead.\n'
+p11
+sb.

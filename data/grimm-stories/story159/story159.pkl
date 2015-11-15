@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/109.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal141.html'
+p5
+sS'summary'
+p6
+S"A stepmother dislikes her stepdaughter and stepson and has then turned into a lamb and fish. She calls for the cook to butcher and cook the lamb. The cook hears the lamb and fish talking to each other. The cook has another lamb butchered and takes the girl-lamb to be cared for by a woman. This woman turns out to be the boy and girl's foster mother. She blesses the fish and lamb and they regain their human forms. "
+p7
+sS'name'
+p8
+S'The Lambkin and the Little Fish'
+p9
+sS'text'
+p10
+S"There were once a little brother and a little sister, who loved\neach other with all their hearts.  Their own mother, however, was\ndead, and they had a step-mother who was not kind to them, and\nsecretly did everything she could to hurt them.  It so happened\nthat the two were playing with other children in a meadow before\nthe house, and there was a pond in the meadow which came up\nto one side of the house.  The children ran about it, and caught\neach other, and played at counting out.\n          Eneke beneke, let me live,\n          and I to you my bird will give.\n          The little bird, it straw shall seek,\n          the straw I'll give to the cow to eat.\n          The pretty cow shall give me milk,\n          the milk I'll to the baker take.\n          The baker he shall bake a cake,\n          the cake I'll give unto the cat.\n          The cat shall catch some mice for that,\n          the mice I'll hang up in the smoke,\n          and then you'll see the snow.\nThey stood in a circle while they played this, and the one to\nwhom the word snow fell, had to run away and all the others ran\nafter him and caught him.  As they were running about so merrily\nthe step-mother watched them from the window, and grew angry.\nAnd as she understood arts of witchcraft she bewitched them both,\nand changed the little brother into a fish, and the little sister\ninto a lamb.  Then the fish swam here and there about the pond and\nwas very sad, and the lambkin walked up and down the meadow,\nand was miserable, and could not eat or touch one blade of grass.\nThus\npassed a long time, and then strangers came as visitors to the\ncastle.  The false step-mother thought, this is a good opportunity,\nand called the cook and said to him, go and fetch the lamb from\nthe meadow and kill it, we have nothing else for the visitors.\nThen the cook went away and got the lamb, and took it into the\nkitchen and tied its feet, and all this it bore patiently.  When\nhe had drawn out his knife and was whetting it on the door-step\nto kill the lamb, he noticed a little fish swimming backwards\nand forwards in the water, in front of the gutter-stone and\nlooking up at him.  This, however, was the brother, for when the\nfish saw the cook take the lamb away, it followed them and swam\nalong the pond to the house, then the lamb cried down to it,\n          ah, brother, in the pond so deep,\n          how sad is my poor heart.\n          The cook he whets his knife\n          to take away my life.\nThe little fish answered,\n          ah, little sister, up on high\n          how sad is my poor heart\n          while in this pond I lie.\nWhen the cook heard that the lambkin could speak and said such\nsad words to the fish down below, he was terrified and thought\nthis could be no common lamb, but must be bewitched by the wicked\nwoman in the house.  Then said he, be easy, I will not kill you,\nand took another sheep and made it ready for the guests, and\nconveyed the lambkin to a good peasant woman, to whom he related\nall that he had seen and heard.\nThe peasant, however, was the very woman who had been foster-mother\nto the little sister, and she suspected at once who the\nlamb was, and went with it to a wise woman.  Then the wise woman\npronounced a blessing over the lambkin and the little fish, by\nmeans of which they regained their human forms, and after this\nshe took them both into a little hut in a great forest, where\nthey lived alone, but were contented and happy.\n"
+p11
+sb.

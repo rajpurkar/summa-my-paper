@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/183.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal149.html'
+p5
+sS'summary'
+p6
+S'A magician has a rooster that carries a heavy beam. A girl sees that the beam is only a straw. She ridicules the man and the crowd drives him away in disgrace. The magician decides to get revenge on the girl on her wedding day. As she goes to the church, she reaches a swollen creek and lifts her dress so she can wade across. The magician has enchanted the creek and it is really only a field of blue flowers the girl walks across with her lifted dress. All the townspeople ridicule the girl and chase her away.'
+p7
+sS'name'
+p8
+S'The Beam'
+p9
+sS'text'
+p10
+S"There was once a sorcerer who was standing in the midst of a\ngreat crowd of people performing his wonders.  He had a cock\nbrought in, which lifted a heavy beam and carried it as if\nit were light as a feather.  But a girl was present who had\njust found a four-leaved clover, and had thus become so wise\nthat no deception could stand out against her, and she saw\nthat the beam was nothing but a straw.  So she cried, you\npeople, do you not see that it is a straw that the cock is\ncarrying, and no beam.  Immediately the enchantment vanished,\nand the people saw what it was, and drove the magician away\nin shame and disgrace.  He, however, full of inward anger,\nsaid, I will soon revenge myself.\nAfter some time the girl's wedding-day came, and she was\ndecked out, and went in a great procession over the fields to\nthe place where the church was.  All at once she came to a\nstream which was very much swollen, and there was no bridge\nand no plank to cross it.  Then the bride nimbly took her\nclothes up, and wanted to wade through it.  And just as she\nwas thus standing in the water, a man, and it was the\nsorcerer, cried mockingly close beside her, aha.  Where are\nyour eyes that you take that for water.  Then her eyes were\nopened, and she saw that she was standing with her clothes\nlifted up in the middle of a field that was blue with the\nflowers of blue flax.  Then all the people saw it likewise,\nand chased her away with ridicule and laughter.\n"
+p11
+sb.

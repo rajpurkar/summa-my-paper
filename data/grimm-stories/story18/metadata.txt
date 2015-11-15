@@ -1,0 +1,3 @@
+name: Knoist and His Three Sons
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/106.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal138.html

@@ -1,0 +1,3 @@
+name: The Giant and the Tailor
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/202.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal184.html

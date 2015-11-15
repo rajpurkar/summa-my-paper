@@ -1,0 +1,3 @@
+name: The Devil's Sooty Brother
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/075.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal100.html

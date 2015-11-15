@@ -1,0 +1,3 @@
+name: The Robber Bridegroom
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/030.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal040.html

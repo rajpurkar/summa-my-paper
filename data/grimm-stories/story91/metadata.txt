@@ -1,0 +1,3 @@
+name: The Young Giant
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/067.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal090.html

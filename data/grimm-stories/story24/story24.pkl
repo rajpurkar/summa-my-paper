@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/147.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal209.html'
+p5
+sS'summary'
+p6
+S'An old woman sits mourning because she is all alone. The woman is especially sad and angry with God because of the death of her sons. She hears the bells ring, telling her it is time to go the church for prayers. She notices the church is full of her dead relatives. They tell her to look at the altar if she wants to see her sons. One son is hanging from a gallows while the other is bound to a wheel. At once she realizes what extra sorrow she would have had to bear if her sons had actually died this way instead of dying in their youth. The old woman immediately thanks God for His divine care and timing.'
+p7
+sS'name'
+p8
+S'The Aged Mother'
+p9
+sS'text'
+p10
+S'In a large town there was an old woman who sat in the evening alone\nin her room thinking how she had lost first her husband, then\nboth her children, then one by one all her relatives, and at\nlength, that very day, her last friend, and now she was quite\nalone and desolate.  She was very sad at heart, and heaviest of\nall her losses to her was that of her sons, and in her pain she\nblamed God for it.  She was still sitting lost in thought, when\nall at once she heard the bells ringing for early prayer.  She was\nsurprised that she had thus in her sorrow watched through the\nwhole night, and lighted her lantern and went to church.  It was\nalready lighted up when she arrived, but not as it usually was\nwith wax candles, but with a dim\nlight.  It was also crowded already with people, and all the\nseats were filled, and when the old woman got to her usual place\nit also was not empty, but the whole bench was entirely full.  And\nwhen she looked at the people, they were none other than her dead\nrelatives who were sitting there in their old-fashioned garments,\nbut with pale faces.  They neither spoke nor sang, but a soft\nhumming and whispering was heard all over the church.  Then an\naunt of hers stood up, stepped forward, and said to the poor old\nwoman, look there beside the altar, and you will see your sons.\nThe old woman looked there, and saw her two children, one hanging\non the gallows, the other bound to the wheel.  Then said the aunt,\nbehold, so would it have been with them if they had lived, and if\nthe good God had not taken them to himself when they were\ninnocent children.  The old woman went trembling home, and on her\nknees thanked God for having dealt with her more kindly than she\nhad been able to understand, and on the third day she lay down\nand died.\n'
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/138.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal197.html'
+p5
+sS'summary'
+p6
+S"A king promises that anyone who can walk to the other side of the glass mountain without falling will be allowed to marry his daughter. One suitor decides to try the feat and the princess goes with him. It is she who falls. The mountain opens up and swallows her. Neither the king nor anyone else is able to rescue her. While in the mountain, the girl falls into the charge of a man named Rinkrank, who forces her to be his servant. She cleans his house while he climbs a ladder out of the mountain, then comes back with silver and gold. One day she tricks Rinkrank into giving her the ladder so she can leave the mountain. She goes back to her father's kingdom where she marries her suitor who is waiting for her. The king kills Rinkrank."
+p7
+sS'name'
+p8
+S'Old Rinkrank'
+p9
+sS'text'
+p10
+S"There was once upon a time a king who had a daughter,\nand he caused a glass mountain to be made, and said that\nwhosoever could cross to the other side of it without falling\nshould have his daughter to wife.  Then there was one who loved\nthe king's daughter, and he asked the king if he might have her.\nYes, said the king, if you can cross the mountain without falling,\nyou shall have her.  And the princess said she would go over it\nwith him, and would hold him if he were about to fall.  So they\nset out together to go over it, and when they were half way up the\nprincess slipped and fell, and the glass mountain opened and shut\nher up inside it, and her betrothed could not see where she had\ngone, for the mountain closed immediately.  Then he wept and\nlamented much, and the king was miserable too, and ordered the\nmountain to be broken open where she had been lost, and thought\nhe would\nbe able to get her out again, but they could not find the place\ninto which she had fallen.\nMeanwhile the king's daughter had fallen quite deep down into\nthe earth into a great cave.  An old fellow with a very long gray\nbeard came to meet her, and told her that if she would be his\nservant and do everything he bade her, she might live, if not\nhe would kill her.  So she did all he bade her.  In the mornings\nhe took his ladder out of his pocket, and set it up against the\nmountain and climbed to the top by its help, and then he drew the\nladder after him.  The princess had to cook his dinner, make his\nbed, and do all his work, and when he came home again he always\nbrought with him a heap of gold and silver.  When she had lived\nwith him for many years, and had grown quite old, he called her\nmother mansrot, and she had to call him old rinkrank.  Then once\nwhen he was out, and she had made his bed and washed his dishes,\nshe shut the doors and windows all fast, and there was one little\nwindow through which the light shone in, and this she left open.\nWhen old rinkrank came home, he knocked at his door, and cried,\nmother mansrot, open the door for me.  No, said she, old rinkrank,\nI will not open the door for you.  Then he said,\n     here stand I, poor rinkrank,\n     on my seventeen long shanks,\n     on my weary, worn-out foot,\n     wash my dishes, mother mansrot.\nI have washed your dishes already, said she.  Then again he said,\n     here stand I, poor rinkrank,\n     on my seventeen long shanks,\n     on my weary, worn-out foot,\n     make my bed, mother mansrot.\nI have made your bed already, said she.  Then again he said,\n     here stand I, poor rinkrank,\n     on my seventeen long shanks,\n     on my weary, worn-out foot,\n     open the door, mother mansrot.\nThen he ran all round his house, and saw that the little window\nwas open, and thought, I will look in and see what she can be about,\nand why she will not open the door for me.  He tried to peep in,\nbut could not get his head through because of his long beard.\nSo he first put his beard through the open window, but just as he\nhad got it through, mother mansrot came by and pulled the window\ndown with a cord which she had tied to it, and his beard was shut\nfast in it.  Then he began to cry most piteously, for it hurt\nhim very much, and to entreat her to release him again.  But she\nsaid not until he gave her the ladder with which he ascended the\nmountain.  Then, whether he would or not, he had to tell her where\nthe ladder was.  And she fastened a very long ribbon to the\nwindow, and then she set up the ladder, and ascended the\nmountain, and when she was at the top of it she opened the\nwindow.  She went to her father, and told him all that had\nhappened to her.  The king rejoiced greatly, and her betrothed\nwas still there, and they went and dug up the mountain, and found\nold rinkrank inside it with all his gold and silver.  Then the\nking had old rinkrank put to death, and took all his gold and\nsilver.  The princess married her betrothed, and lived right\nhappily in great magnificence and joy.\n"
+p11
+sb.

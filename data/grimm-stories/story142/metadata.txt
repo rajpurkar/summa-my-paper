@@ -1,0 +1,3 @@
+name: The Wolf and the Man
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/165.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal072.html

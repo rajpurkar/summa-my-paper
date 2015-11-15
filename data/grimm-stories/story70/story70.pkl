@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/137.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal195.html'
+p5
+sS'summary'
+p6
+S"In olden times, hundreds of kernels of corn grew on one stalk instead of the fifty or sixty that grow today. One day the Lord witnessed a woman thoughtlessly tear off a handful of ears of corn to clean her child's dress. At that time the Lord commanded no more corn would grow. When the people prayed and begged for corn for food, the Lord allowed corn to grow, but only in the scanty ears on which it grows today."
+p7
+sS'name'
+p8
+S'The Ear of Corn'
+p9
+sS'text'
+p10
+S'In former times, when God himself still walked the earth, the\nfruitfulness of the soil was much greater than it is now.  Then\nthe ears of corn did not bear fifty or sixty, but four or five\nhundred-fold.  Then the corn grew from the bottom to the very top\nof the stalk, and according to the length of the stalk was the\nlength of the ear.  Men however are so made, that when they are\ntoo well off they no longer value the blessings which come from\nGod, but grow indifferent and careless.  One day a woman was\npassing by a corn-field when her little child, who was running\nbeside her, fell into a puddle, and dirtied her frock.  On this\nthe mother tore up a handful of the beautiful ears of corn, and\ncleaned the frock with them.\nWhen the Lord, who just then came by, saw that, he was angry,\nand said, henceforth shall the stalks of corn bear no more ears,\nmen are no longer worthy of heavenly gifts.  The by-standers who\nheard this, were terrified, and fell on their knees and prayed\nthat he would still leave something on the stalks, even if the\npeople were undeserving of it, for the sake of the innocent\nchickens which would otherwise have to starve.  The Lord, who\nforesaw their suffering, had pity on them, and granted the\nrequest.  So the ears were left as they now grow.\n'
+p11
+sb.

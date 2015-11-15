@@ -1,0 +1,3 @@
+name: The Bright Sun Brings It to Light
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/088.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal115.html

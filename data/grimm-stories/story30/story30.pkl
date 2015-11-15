@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/129.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal181.html'
+p5
+sS'summary'
+p6
+S'After they are thrown out of the garden of Eden, Adam and Eve are forced to build their own house and work for their own food. The Lord announces he plans to inspect their home. Eve prepares her beautiful children for the visit but hides her unattractive children. The Lord blesses the beautiful children richly. Since He is being so kind, Eve decides to bring out her ugly children. These the Lord blesses with the jobs and blessings of the common people. Eve is distraught that the Lord has given out gifts unequally among her children. The Lord reasons with her that her children must inhabit the entire world. They must perform duties both royal and mundane.'
+p7
+sS'name'
+p8
+S"Eve's Various Children"
+p9
+sS'text'
+p10
+S'When adam and eve were driven out of paradise, they were\ncompelled to build a house for themselves on barren ground, and\neat their bread in the sweat of their brow.  Adam dug up the land,\nand eve spun.  Every year eve brought a child into the world, but\nthe children were unlike each other, some pretty, and some ugly.\nAfter a considerable time had gone by, God sent an angel to them,\nto announce that he was coming to inspect their household.  Eve,\ndelighted that the lord should be so gracious, cleaned her\nhouse diligently, decked it with flowers, and\nstrewed rushes on the floor.  Then she brought in her children,\nbut only the beautiful ones.  She washed and bathed them, combed\ntheir hair, put clean raiment on them, and cautioned them to\nconduct themselves decorously and modestly in the presence of the\nLord.  They were to bow down before him civilly, hold out their\nhands, and to answer his questions modestly and sensibly.  The\nugly children, however, were not to let themselves be seen.  One\nhid himself beneath the hay, another under the roof, a third\nin the straw, the fourth in the stove, the fifth in the cellar,\nthe sixth under a tub, the seventh beneath the wine-cask, the\neighth under an old fur cloak, the ninth and tenth beneath the\ncloth out of which she always made their clothes, and the\neleventh and twelfth under the leather out of which she cut\ntheir shoes.  She had scarcely got ready, before there was a\nknock at the house-door.  Adam looked through a chink, and saw\nthat it was the Lord.  Adam opened the door respectfully,\nand the heavenly father entered.  There, in a row, stood the\npretty children, and bowed before him, held out their hands,\nand knelt down.  The Lord, however, began to bless them, laid\nhis hands on the first, and said, thou shalt be a powerful king,\nand to the second, thou a prince, to the third, thou a\ncount, to the fourth, thou a knight, to the fifth, thou\na nobleman, to the sixth, thou a burgher, to the seventh, thou\na merchant, to the eighth, thou a learned man.  He bestowed\nupon them also all his richest blessings.  When eve saw that\nthe Lord was so mild and gracious, she thought, I will bring\nhither my ill-favored children also, it may be that he will\nbestow his blessing on them likewise.\nSo she ran and brought them out of the hay, the straw, the\nstove, and wherever else she had concealed them.  Then came the\nwhole coarse, dirty, scabby, sooty band.  The Lord smiled,\nlooked at them all, and said, I will bless these also.  He laid\nhis hands on the first, and said to him, thou shalt be a peasant,\nto the second, thou a fisherman, to the third,\nthou a smith, to the fourth, thou a tanner, to the fifth, thou\na weaver, to the sixth, thou a shoemaker, to the seventh, thou\na tailor, to the eighth, thou a potter, to the ninth, thou a\nwaggoner, to the tenth, thou a sailor, to the eleventh, thou\na messenger, to the twelfth, thou a scullion all the days of\nthy life.\nWhen eve had heard all this she said, Lord, how unequally thou\ndividest thy gifts.  After all they are all of them my children,\nwhom I have brought into the world, thy favors should be given\nto all alike.  But God answered, eve, thou dost not understand.\nIt is right and necessary that the entire world should be\nsupplied from thy children.  If they were all princes and lords,\nwho would grow corn, thresh it, grind and bake it.  Who would\nbe blacksmiths, weavers, carpenters, masons, laborers, tailors\nand seamstresses.  Each shall have his own place, so that one\nshall support the other, and all shall be fed like the limbs of\none body.  Then eve answered, ah, Lord, forgive me, I was too\nquick in speaking to thee.  Have thy divine will with my children.\n'
+p11
+sb.

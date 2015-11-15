@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/054.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal068.html'
+p5
+sS'summary'
+p6
+S"Hans sends his son out to be taught by a master in witchcraft and theft. The master will take money from the father only if he comes back in a year's time and cannot recognize his son. Fearful that he will have to pay the money, the man speaks with a dwarf who tells him how to recognize his son. Hans takes his son home. They go to a fair where the son turns himself into a horse and is sold back to the master thief. Because his father forgets to take off the horse's bridle, the son cannot change himself back into a man and must ask the stable maid to take the bridle off. The son turns himself into a sparrow but the master thief realizes who he is and follows him. They cast lots several times..."
+p7
+sS'name'
+p8
+S'The Thief and His Master'
+p9
+sS'text'
+p10
+S"Hans wished to put his son to learn a trade, so he went into the\nchurch and prayed to our Lord God to know which would be the most\nsuitable for him.  Then the clerk got behind the altar, and said,\nthieving, thieving.  On this Hans goes back to his son, and tells him\nhe is to learn thieving, and that the Lord God had said so.  So he\ngoes with his son to seek a man who is acquainted with thieving.\nThey walk a long time and come into a great forest, where stands a\nlittle house with an old woman in it.  Hans says, do you know of a\nman who is acquainted with thieving.  You can learn that here quite\nwell, says the woman, my son is a master of it.  So he speaks with\nthe son, and asks if he knows thieving really well.  The master-thief\nsays, I will teach him well.  Come back when a year is over, and then\nif you recognize your son, I will take no payment at all for teaching\nhim, but if you don't know him, you must give me two hundred talers.\n\nThe father goes home again, and the son learns witchcraft and\nthieving, thoroughly.  When the year is out, the father is full of\nanxiety to know how he shall recognize his son.  As he is thus going\nabout in his trouble, he meets a little dwarf, who says, man, what\nails you, that you are always in such trouble.\n\nOh, says Hans, a year ago I placed my son with a master-thief who\ntold me I was to come back when the year was out, and that if I then\ndid not know my son when I saw him, I was to pay two hundred talers,\nbut if I did know him I was to pay nothing, and now I am afraid of\nnot knowing him and can't tell where I am to get the money.  Then the\ndwarf tells him to take a crust of bread with him, and to stand\nbeneath the chimney.  There on the cross-beam is a basket, out of\nwhich a little bird is peeping, and that is your son.\n\nHans goes thither, and throws a crust of black bread in front of the\nbasket with the bird in it, and the little bird comes out, and looks\nup.  Hello, my son, are you here, says the father, and the son is\ndelighted to see his father, but the master-thief says, the devil\nmust have prompted you, or how could you have known your son.\nFather, let us go, said the youth.\n\nThen the father and son set out homeward.  On the way a carriage\ncomes driving by.  Hereupon the son says to his father, I will change\nmyself into a large greyhound, and then you can earn a great deal of\nmoney by me.  Then the gentleman calls from the carriage, my man,\nwill you sell your dog.  Yes, says the father. How much do you want\nfor it.  Thirty talers.  Well, man, that is a great deal, but as it\nis such a very fine dog I will have it. The gentleman takes it into\nhis carriage, but when they have driven a little farther the dog\nsprings out of the carriage through the window, and goes back to his\nfather, and is no longer a greyhound.\n\nThey go home together.  Next day there is a fair in the neighboring\ntown, so the youth says to his father, I will now change myself into\na beautiful horse, and you can sell me, but when you have sold me,\nyou must take off my bridle, or I cannot become a man again.  Then\nthe father goes with the horse to the fair, and the master-thief\ncomes and buys the horse for a hundred talers, but the father\nforgets, and does not take off the bridle.  So the man goes home with\nthe horse, and puts it in the stable.\n\nWhen the maid crosses the threshold, the horse says, take off my\nbridle, take off my bridle. Then the maid stands still, and says,\nwhat, can you speak.  So she goes and takes the bridle off, and the\nhorse becomes a sparrow, and flies out at the door, and the\nmaster-thief becomes a sparrow also, and flies after him.\n\nThen they come together and cast lots again, and the master loses.\nSo the master changes himself into a cock, and the youth becomes a\nfox, and bites the master's head off, and he died and has remained\ndead to this day.\n"
+p11
+sb.

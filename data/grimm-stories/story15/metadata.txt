@@ -1,0 +1,3 @@
+name: The Good Bargain
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/006.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal007.html

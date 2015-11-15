@@ -1,0 +1,3 @@
+name: Little Briar-Rose
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/039.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal050.html

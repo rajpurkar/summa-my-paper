@@ -1,0 +1,3 @@
+name: The Glass Coffin
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/123.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal164.html

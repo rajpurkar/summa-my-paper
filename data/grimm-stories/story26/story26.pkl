@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/063.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal084.html'
+p5
+sS'summary'
+p6
+S'In an effort to marry his nephew Hans profitably, an uncle brags to a rich man that the boy has plenty of "patches". While the rich man takes the claim to mean Hans has lots of land, the uncle means the boy has patches on his clothes. '
+p7
+sS'name'
+p8
+S'Hans Married'
+p9
+sS'text'
+p10
+S"There was once upon a time a young peasant named Hans, whose uncle\nwanted to find him a rich wife.  He therefore seated Hans behind the\nstove, and had it made very hot.  Then he fetched a pot of milk and\nplenty of white bread, gave him a bright newly-coined farthing in his\nhand, and said, Hans, hold that farthing fast, crumble the white\nbread into the milk, and stay where you are, and do not stir from\nthat spot till I come back.  Yes, said Hans,\n\nI will do all that.  Then the uncle put on a pair of old patched\ntrousers, went to a rich peasant's daughter in the next village, and\nsaid, won't you marry my nephew Hans.  You will get an honest and\nsensible man who will suit you.  The covetous father asked, how is it\nwith regard to his means.  Has he bread to break?\n\nDear friend, replied the uncle, my young nephew has a snug berth, a\nnice bit of money in hand, and plenty of bread to break, besides he\nhas quite as many patches as I have.  And as he spoke, he slapped the\npatches on his trousers, but in that district small pieces of land\nwere called patches also.  If you will give yourself the trouble to\ngo home with me, you shall see at once that all is as I have said.\nThen the miser did not want to lose this good opportunity, and said,\nif that is the case, I have nothing further to say against the\nmarriage.\n\nSo the wedding was celebrated on the appointed day, and when the\nyoung wife went out of doors to see the bridegroom's property, Hans\ntook off his sunday coat and put on his patched smock and said, I\nmight spoil my good coat.  Then together they went out and wherever a\nvineyard came in sight, or fields and meadows were divided from each\nother, Hans pointed with his finger and then slapped either a large\nor a small patch on his smock, and said, that patch is mine, and that\ntoo, my dearest, just look at it. Meaning thereby that his wife\nshould not stare at the broad land, but look at his garment, which\nwas his own.\n\nWere you at the wedding too?  Yes, indeed I was there, and in full\ndress.  My head-dress was of snow, then the sun came out, and it was\nmelted.  My coat was of cobwebs, and I had to pass by some thorns\nwhich tore it off me, my shoes were of glass, and I trod on a stone\nand they said, klink, and broke in two.\n\n"
+p11
+sb.

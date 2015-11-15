@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/181.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal132.html'
+p5
+sS'summary'
+p6
+S'A horse is disowned by its master because it is no longer able to plough and work. A fox helps the horse "bring home" a lion. Because the horse has accomplished this feat, the owner promises to care for him the rest of his life.'
+p7
+sS'name'
+p8
+S'The Fox and the Horse'
+p9
+sS'text'
+p10
+S"A peasant had a faithful horse which had grown old and could\ndo no more work, so his master would no longer give him\nanything to eat and said, I can certainly make no more use\nof you, but still I mean well by you, if you prove yourself\nstill strong enough to bring me a lion here, I will maintain\nyou, but now take yourself away out of my stable.  And with\nthat he chased him into the open country.  The horse was\nsad, and went to the forest to seek a little protection there\nfrom the weather.  Then the fox met him and said, why do you\nhang your head so, and go about all alone.  Alas, replied the\nhorse, avarice and fidelity do not dwell together in one\nhouse.  My master has forgotten what services I have\nperformed for him for so many years, and because I can no\nlonger plough well, he will give me no more food, and has\ndriven me out.  Without giving you a chance, asked the fox.\nThe chance was a bad one.  He said, if I were still strong\nenough to bring him a lion, he would keep me, but he well\nknows that I cannot do that.  The fox said, I will help you,\njust lay yourself down, stretch yourself out as if you were\ndead, and do not stir.  The horse did as the fox desired,\nand the fox went to the lion, who had his den not far off,\nand said, a dead horse is lying outside there, just come\nwith me, you can have a rich meal.  The lion went with\nhim, and when they\nwere both standing by the horse the fox said, after all, it\nis not very convenient for you here - I tell you what - I\nwill fasten it to you by the tail, and then you can drag it\ninto your cave, and devour it in peace.\nThis advice pleased the lion, he lay down, and in order that\nthe fox might tie the horse fast to him, he kept quite quiet.\nBut the fox tied the lion's legs together with the horse's\ntail, and twisted and fastened all so well and so strongly\nthat no strength could break it.  When he had finished his\nwork, he tapped the horse on the shoulder and said, pull,\nwhite horse, pull.  Then up sprang the horse at once, and\ndrew the lion away with him.  The lion began to roar so\nthat all the birds in the forest flew out in terror, but\nthe horse let him roar, and drew him and dragged him over\nthe country to his master's door.  When the master saw the\nlion, he was of a better mind, and said to the horse, you\nshall stay with me and fare well, and he gave him plenty\nto eat until he died.\n"
+p11
+sb.

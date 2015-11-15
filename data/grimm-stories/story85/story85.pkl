@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/192.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal171.html'
+p5
+sS'summary'
+p6
+S"A hateful tailor is put in jail for beating his wife. After he serves some time, he is released with the promise he will not hit her again. Although he does not beat her, he tears out her hair and throws objects at her, such as a pair of scissors. The violence becomes so bad the neighbors come to the wife's aid. The husband tries to explain away his bad behavior by saying he was only trying to bring her back to her duty by throwing things at her. The judges see through the man's lame excuses and punish him according to his actions."
+p7
+sS'name'
+p8
+S'Sharing Joy and Sorrow'
+p9
+sS'text'
+p10
+S"There was once a tailor, who was a quarrelsome fellow, and\nhis wife, who was good, industrious, and pious, never could\nplease him.  Whatever she did, he was not satisfied, but\ngrumbled and scolded, and knocked her about and beat her.  As\nthe authorities at last heard of it, they had him summoned\nand put in prison in order to make him better.  He was kept\nfor a while on bread and water, and then set free again.  He\nwas forced, however, to promise not to beat his wife any\nmore, but to live with her in peace, and share joy and\nsorrow with her, as married people ought to do.  All went\non well for a time, but then he fell into his old ways and\nwas surly and quarrelsome.  And because he dared not beat her,\nhe would seize her by the hair and tear it out.  The woman\nescaped from him, and sprang out into the yard, but he ran\nafter her with his yard-measure and scissors, and chased her\nabout, and threw the yard-measure and scissors at her, and\nwhatever else came his way.  When he hit her he laughed, and\nwhen he missed her, he stormed and swore.  This went on so long\nthat the neighbors came to the wife's assistance.  The tailor\nwas again summoned before the magistrates, and reminded of his\npromise.  Dear gentlemen, said he, I have kept my word, I have\nnot beaten her, but have shared joy and sorrow with her.  How\ncan that be, said the judge, as she continues to bring such\nheavy complaints against you.  I have not beaten her, but just\nbecause she looked so strange I wanted to comb her hair with\nmy hand.  She, however, got away from me, and left me quite\nspitefully.  Then I hurried after her, and in order to bring\nher back to her duty, I threw at her as a well-meant reminder\nwhatever came readily to hand.  I have shared joy and sorrow\nwith her also, for whenever I hit her I was full of joy and\nshe of sorrow, and if I missed her, then she was joyful, and I\nsorry.  The judges were not satisfied with this answer, but\ngave him the reward he deserved.\n"
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/115.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal147.html'
+p5
+sS'summary'
+p6
+S"St. Peter and the Lord stay one evening at a blacksmith's house. A poor old man comes by seeking money. They have pity on the man and make him young so he can earn his own way. They borrow the smith's forge, heat the man up, and then cool him in a tub of water. The old man comes out as young as a teenager. The smith decides to try this on his aged mother-in-law. During the process she screams and cries so that she wakes her pregnant daughter and daughter-in-law. The sight of the burnt woman scares them so much that both women go into labor and give birth. Instead of being human babies though, the women give birth to apes."
+p7
+sS'name'
+p8
+S'The Old Man Made Young Again'
+p9
+sS'text'
+p10
+S"At the time when our Lord still walked this earth, he and St.\nPeter stopped one evening at a smith's and received free\nquarters.  Then it came to pass that a poor beggar, hard pressed\nby age and infirmity, came to this house and begged alms of the\nsmith.  St. Peter had compassion on him and said, Lord and\nmaster, if it please you, cure his torments that he may be able\nto win his own bread.  The Lord said kindly, smith, lend me your\nforge, and put on some coals for me, and then I will make this\nailing old man young again.  The smith was quite willing, and\nSt. Peter blew the bellows, and when the coal fire sparkled up\nlarge and high our Lord took the little old man, pushed him in\nthe forge in the midst of the red-hot fire, so that he glowed like\na rose-bush, and praised God with a loud voice.  After that the\nLord went to the quenching tub, put the glowing little man into\nit so that the water closed over\nhim, and after he had carefully cooled him, gave him his blessing,\nwhen behold the little man sprang nimbly out, looking fresh,\nstraight, healthy, and as if he were but twenty.  The smith, who\nhad watched everything closely and attentively, invited them\nall to supper.  He, however, had an old half-blind crooked,\nmother-in-law who went to the youth, and with great earnestness\nasked if the fire had burnt him much.  He answered that he had never\nfelt more comfortable, and that he had sat in the red heat\nas if he had been in cool dew.  The youth's words echoed in the\nears of the old woman all night long, and early next morning,\nwhen the Lord had gone on his way again and had heartily thanked\nthe smith, the latter thought he might make his old mother-in-law\nyoung again likewise, as he had watched everything so carefully,\nand it lay in the province of his trade.  So he called to ask her\nif she, too, would like to go bounding about like a girl of\neighteen.  She said, with all my heart, as the youth has come\nout of it so well.  So the smith made a great fire, and thrust\nthe old woman into it, and she writhed about this way and that,\nand uttered terrible cries of murder.  Sit still.  Why are\nyou screaming and jumping about so, cried he, and as he spoke\nhe blew the bellows again until all her rags were burnt.  The\nold woman cried without ceasing, and the smith thought to himself,\nI have not quite the right art, and took her out and threw her\ninto the cooling-tub.  Then she screamed so loudly that the smith's\nwife upstairs and her daughter-in-law heard it, and they both\nran downstairs, and saw the old woman lying in a heap in the\nquenching-tub, howling and screaming, with her face wrinkled and\nshriveled and all out of shape.  Thereupon the two, who were\nboth with child, were so terrified that that very night two\nboys were born who were not made like men but apes, and they ran\ninto the woods, and from them sprang the race of apes.\n"
+p11
+sb.

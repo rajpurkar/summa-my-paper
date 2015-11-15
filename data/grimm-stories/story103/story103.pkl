@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/194.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal173.html'
+p5
+sS'summary'
+p6
+S"The fish decide to have a race to see which fish is fastest. The fastest fish will be named the king of all fish. The herring wins the race. The sole cries out in jealousy and disbelief when the herring is announced the winner. Ever since that time, the sole has had it's mouth on one side as a punishment."
+p7
+sS'name'
+p8
+S'The Sole'
+p9
+sS'text'
+p10
+S'The fishes had for a long time been discontented because no\norder prevailed in their kingdom.  None of them turned\naside for the others, but all swam to the right or the left\nas they fancied, or darted between those who wanted to\nstay together, or got into their way.  And a strong one gave\na weak one a blow with its tail, which drove it away, or else\nswallowed it up without more ado.  How delightful it would be,\nsaid they, if we had a king who enforced law and justice among us,\nand they met together to choose for their ruler the one who could\ncleave through the water most quickly, and give help to the\nweak ones.\nThey placed themselves in rank and file by the shore, and the\npike gave the signal with his tail, on which they all started.\nLike an arrow, the pike darted away, and with him the herring,\nthe gudgeon, the perch, the carp, and all the rest of them.\nEven the sole swam with them, and hoped to win the race.\nAll at once, the cry was heard, the herring is first, the\nherring is first.  Who is first, screamed angrily the flat envious\nsole, who had been left far behind,  who is first.  The herring,\nthe herring, was the answer.  The naked herring, cried the\njealous creature, the naked herring.  Since that time the sole\nhas been punished by having been given a mouth on one side.\n'
+p11
+sb.

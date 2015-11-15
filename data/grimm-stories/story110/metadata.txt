@@ -1,0 +1,3 @@
+name: The Peasant in Heaven
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/190.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal168.html

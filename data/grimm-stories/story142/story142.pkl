@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/165.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal072.html'
+p5
+sS'summary'
+p6
+S'A wolf who has never seen a man brags that he would take this creature out if he ever had the opportunity. When the wolf does meet a man, he is shot with a gun, is wounded, and runs away. The fox laughs at the wolf because of his bragging.'
+p7
+sS'name'
+p8
+S'The Wolf and the Man'
+p9
+sS'text'
+p10
+S'Once upon a time the fox was talking to the wolf of the\nstrength of man.  How no animal could withstand him, and how\nall were obliged to emply cunning in order to protect themselves\nfrom him.  Then the wolf answered, if I had but the chance of\nseeing a man for once, I would set on him notwithstanding.\nI can help you to do that, said the fox.  Come to me early\nto-morrow morning, and I will show you one.  The wolf presented\nhimself betimes, and the fox took him out on the road by which\nthe huntsmen went daily.  First came an old discharged soldier.\nIs that a man, inquired the wolf.  No, answered the fox, that\nwas one.  Afterwards came a little boy who was going to school.\nIs that a man.  No, that will be one.  At length came a\nhunter with his double-barelled gun at his back, and hanger by\nhis side.  Said the fox to the wolf, look, there comes a man,\nyou must attack him, but I will take myself off to my hole.  The\nwolf then rushed on the man.  When the huntsman saw him he\nsaid, it is a pity that I have not loaded with a bullet, aimed,\nand fired his small shot in his face.  The wolf pulled a very\nwry grimace, but did not let himself be frightened, and attacked\nhim again, on which the huntsman gave him the second barrel.  The\nwolf swallowed his pain, and rushed on the huntsman, but he\ndrew out his bright hanger, and gave him a few cuts with it\nright and left, so that, bleeding everywhere, he ran howling back\nto the fox.  Well, brother wolf, said the fox, how have you\ngot on with man.  Ah, replied the wolf, I never imagined the\nstrength of man to be what it is.  First, he took a stick from\nhis shoulder, and blew into it, and then something flew into\nmy face which tickled me terribly.  Then he breathed once\nmore into the stick, and it flew into my nose like lightning and\nhail.  When I was quite close, he drew a white rib out of his\nbody, and he beat me so with it that I was all but left lying\ndead.  See what a braggart you are, said the fox.  You throw\nyour hatchet so far that you cannot fetch it back again.\n'
+p11
+sb.

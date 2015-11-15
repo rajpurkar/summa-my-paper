@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/157.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal035.html'
+p5
+sS'summary'
+p6
+S"A lame tailor seeks entrance into the kingdom of heaven. Peter instructs the tailor to sit quietly. Instead of following orders, the tailor looks about heaven and cannot resist the urge to sit in the Lord's seat. From this seat the tailor can see everything on earth, including a old woman in the act of stealing two veils. In his anger the tailor throws down the Lord's golden footstool. The tailor goes back behind the door. The Lord asks Peter what has happened to his footstool. The tailor admits he threw the footstool. The Lord tells the tailor the no one has the right to judge except the Lord Himself. If He acted the way the tailor had, the Lord says, there would be no furniture at all in heaven. The Lord banishes the tailor from heaven. "
+p7
+sS'name'
+p8
+S'The Tailor in Heaven'
+p9
+sS'text'
+p10
+S'One very fine day it came to pass that the good God wished to enjoy\nhimself in the heavenly garden, and took all the apostles and saints\nwith him, so that no one stayed in heaven but saint peter.  The Lord\nhad commanded him to let no one in during his absence, so peter\nstood by the door and kept watch.\nBefore long someone knocked.  Peter asked who was there, and what\nhe wanted.  I am a poor, honest tailor who prays for admission,\nreplied a smooth voice.  Honest indeed, said peter, like the thief\non the gallows.  You have been light-fingered and have snipped\nfolks, clothes away.  You will not get into heaven.  The Lord has\nforbidden me to let anyone in while he is out.  Come, do be\nmerciful, cried the tailor.  Little scraps which fall off the table\nof their own accord are not stolen, and are not worth speaking\nabout.  Look, I am lame, and have blisters on my feet from walking\nhere, I cannot possibly turn back again.  Just let me in, and I will\ndo all the dirty work.  I will carry the children, and wash their\nclothes, and scrub and clean the benches on which they have been\nplaying, and patch all their torn frocks.  Saint peter let himself\nbe moved by pity, and opened the door of heaven just wide enough for\nthe lame tailor to slip his lean body in.  He was forced to sit down\nin a corner behind the door, and told to stay quietly and peaceably\nthere, in order that the Lord, when he returned, might not observe\nhim and be angry.  The tailor obeyed, but once when saint peter went\noutside the door, he got up, and full of curiosity, peeped into\nevery corner of heaven, and inspected the arrangement of the whole\nplace.  At length he came to a spot where many beautiful and\nprecious chairs were standing, and in the midst was a seat all of\ngold which was set with shining jewels.  Likewise it was much higher\nthan the other chairs, and a footstool of gold was before it.  It\nwas the seat, however, on which the Lord sat when he was at home,\nand from which he could see all that happened on earth.  The tailor\nstood still, and looked at the seat for a long time, for it pleased\nhim better than all else.  At last he could master his curiosity no\nlonger, and climbed up and seated himself in the chair.  Then he saw\neverything which was happening on earth, and observed an ugly old\nwoman who was standing washing by the side of a stream, secretly\nlaying two veils on one side for herself.  The sight of this\nmade the tailor so angry that he laid hold of the golden footstool,\nand threw it down to earth through heaven, at the old thief.  But\nsince he could not bring the stool back again, he slipped quietly\nout of the chair, seated himself in his place behind the door, and\nbehaved as if he had never stirred from the spot.\nWhen the Lord and master returned again with his heavenly\ncompanions,\nhe did not see the tailor behind the door, but when he seated\nhimself on his chair the footstool was missing.  He asked saint\npeter what had become of the stool, but he did not know.  Then he\nasked if he had let anyone come in.  I know of no one who has been\nhere, answered peter, but a lame tailor, who is still\nsitting behind the door.  Then the Lord had the tailor brought\nbefore him, and asked him if he had taken away the stool, and where\nhe had put it.  Oh, Lord, answered the tailor joyously, I threw it\nin my anger down to earth at an old woman whom I saw stealing two\nveils at the washing.  Oh, you knave, said the Lord, were I to\njudge as you judge, how do you think you could have escaped so long.\nI should long ago have had no chairs, benches, seats, nay, not even\nan oven-fork, but should have thrown everything down at the sinners.\nHenceforth you can stay no longer in heaven, but must go outside the\ndoor again.  Then go where you will.  No one shall give punishment\nhere, but I alone, the Lord.\nPeter was obliged to take the tailor out of heaven again, and as\nhe had torn shoes, and feet covered with blisters, he took a stick\nin his hand, and went to wait-a-while, where the good soldiers sit\nand make merry.\n'
+p11
+sb.

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/151.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal010.html'
+p5
+sS'summary'
+p6
+S'A group of unlikely companions decides to spend the night at an inn. They promise to pay the innkeeper, but instead of doing so, they make mischief. The innkeeper swears never to let such a strange group stay at his inn again. '
+p7
+sS'name'
+p8
+S'The Pack of Ragamuffins'
+p9
+sS'text'
+p10
+S"The cock once said to the hen, it is now the time when the nuts\nare ripe, so let us go to the hill together and for once\neat our fill before the squirrel takes them all away.  Yes,\nreplied the hen, come, we will have some fun together.  Then\nthey went away to the hill, and as it was a bright day they\nstayed till evening.  Now I do not know whether it was that they\nhad eaten till they were too fat, or whether they had become\ntoo proud, but they would not go home on foot, and the cock had\nto build a little carriage of nut-shells.  When it was ready,\nthe little hen seated herself in it and said to the cock, you can\njust harness yourself to it.  I like that. Said the cock.  I\nwould rather go home on foot than let myself be harnessed to it.\nNo, that is not our bargain.  I do not mind being coachman\nand sitting on the box, but drag it myself I will not.\nAs they were thus disputing, a duck quacked at them, you thieving\nfolks, who bade you go to my nut-hill.  Wait, you shall suffer\nfor it, and ran with open beak at the cock.  But the cock also was\nnot idle, and fell boldly on the duck, and at last wounded her\nso with his spurs that she begged for mercy, and willingly let\nherself be harnessed to the carriage as a punishment.  The\nlittle cock now seated himself on the box and was coachman, and\nthereupon they went off at a gallop, with the cock crying, duck,\ngo as fast as you can.  When they had driven a part of the way\nthey met two foot-passengers, a pin and a needle.  They cried,\nstop. Stop. And said that it would soon be as dark as pitch,\nand then they could not go a step further, and that it was so\ndirty on the road, and asked if they could not get into the\ncarriage for a while.  They had been at the tailor's public-house\nby the gate, and had stayed too long over the beer.  As they were\nthin people, who did not take up much room,\nthe cock let them both get in, but they had to promise him and his\nlittle hen not to step on their feet.  Late in the evening they\ncame to an inn, and as they did not like to go further by night,\nand as the duck also was not strong on her feet, and fell from\none side to the other, they went in.  The host at first made many\nobjections, his house was already full, besides he thought they\ncould not be very distinguished persons.  But at last, as they\nmade pleasant speeches, and told him that he should have the\negg which the little hen had laid on the way, and should likewise\nkeep the duck, which laid one every day, he at length said that\nthey might stay the night.  And now they had themselves well\nserved, and feasted and had a high good time.  Early in the\nmorning, when day was breaking and every one was asleep, the\ncock awoke the hen, brought the egg, pecked it open, and they\nate it together, but they threw the shell on the hearth.  Then\nthey went to the needle which was still asleep, took it by\nthe head and stuck it into the cushion of the landlord's chair,\nand put the pin in his towel, and at last without more ado they\nfled away over the heath.  The duck who liked to sleep in\nthe open air and had stayed in the yard, heard them going away,\nmade herself merry and found a stream, down which she swam, which\nwas a much quicker way of traveling than being harnessed to a\ncarriage.  The host did not get out of bed until a couple of\nhours later.  He washed himself and was about to dry himself, when\nthe pin went over his face and made a red scratch from one ear\nto the other.  After this he went into the kitchen and wanted\nto light a pipe, but when he came to the hearth the egg-shell\ndarted into his eyes.  This morning everything attacks my head,\nsaid he, and angrily sat down on his grandfather's chair, but\nhe quickly started up again and cried, ow, for the needle had\npricked him still worse than the pin, and not in the head.  Now\nhe was thoroughly angry, and suspected the guests who had come\nso late the night before.  And when he went in search of them,\nthey were gone.  Then he made a vow to take no more ragamuffins\ninto his house, for they consume much, pay for nothing, and play\nmischievous tricks into the bargain by way of gratitude.\n"
+p11
+sb.

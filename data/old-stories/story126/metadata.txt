@@ -1,0 +1,5 @@
+name: The Bottle Imp
+author: Robert Louis Stevenson
+content_link: http://byanyothernerd.blogspot.com/search/label/365%20Short%20Stories%20a%20year?updated-max=2014-10-07T14:00:00-04:00&max-results=20&start=18&by-date=false
+summary_link: http://byanyothernerd.blogspot.com/search/label/365%20Short%20Stories%20a%20year?updated-max=2014-10-07T14:00:00-04:00&max-results=20&start=18&by-date=false
+date: 11/10/14

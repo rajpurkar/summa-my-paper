@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/166.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal073.html'
+p5
+sS'summary'
+p6
+S'A wolf and a fox are companions. The wolf calls constantly for the fox to get him food. Each time the fox gets the wolf food, the wolf is not satisfied with what he has gotten and goes back by himself for more. Each time he goes back, the wolf is hurt when he is caught in his attempt to get more food. Finally, the wolf and fox go together to get salted meat out of a cellar. The fox stays on his guard, making sure no one is coming and that he has not made himself so fat that he cannot fit back through the door of the cellar. The wolf, on the other hand, eats so much that when the owner of the cellar comes, he cannot get out of the cellar and is killed. '
+p7
+sS'name'
+p8
+S'The Wolf and the Fox'
+p9
+sS'text'
+p10
+S"The wolf had the fox with him, and whatsoever the wolf\nwished, that the fox was compelled to do, for he was the\nweaker, and he would gladly have been rid of his master.\nIt chanced that once as they were going through the forest, the wolf\nsaid, red-fox, get me something to eat, or else I will eat\nyou yourself.  Then the fox answered, I know a farm-yard where\nthere are two young lambs.  If you are inclined, we will fetch one\nof them.  That suited the wolf, and they went thither, and the fox\nstole the little lamb, took it to the wolf, and went away.  The\nwolf devoured it, but was not satisfied with one.  He wanted the\nother as well, and went to get it.  But as he did it so clumsily,\nthe mother of the little lamb heard him, and began to cry out\nterribly, and to bleat so that the farmers came running there.\nThey found the wolf, and beat him so mercilessly, that he went\nto the fox limping and howling.  You have misled me finely, said\nhe.  I wanted to fetch the other lamb, and the country folks\nsurprised me, and have beaten me to a jelly.  The fox replied,\nwhy are you such a glutton.\nNext day they again went into the country, and the greedy wolf\nonce more said, red-fox, get me something to eat, or I will\neat you yourself.  Then answered the fox, I know a farm-house\nwhere the wife is baking pancakes to-night.  We will get some\nof them for ourselves.  They went there, and the fox slipped\nround the house, and peeped and sniffed about until he discovered\nwhere the dish was, and then snatched six pancakes and carried\nthem to the wolf.\nThere is something for you to eat, said he to him, and then went\nhis way.  The wolf swallowed down the pancakes in an instant,\nand said, they make one want more, and went thither and tore the\nwhole dish down so that it broke in pieces.  This made such\na great noise that the woman came out, and when she saw the\nwolf she called the people, who hurried there, and beat him as\nlong as their sticks would hold together, till with two lame\nlegs, and howling loudly, he returned to the fox in the forest.\nHow abominably you have misled me, cried he, the peasants caught\nme, and tanned my skin for me.  But the fox replied, why are\nyou such a glutton.\nOn the third day, when they were out together, and the wolf\ncould only limp along painfully, he again said, red-fox, get me\nsomething to eat, or I will eat your yourself.  The fox\nanswered, I\nknow a man who has been killing, and the salted meat is lying\nin a barrel in the cellar.  We will get that.  Said the wolf, I\nwill go when you do, that you may help me if I am not able to\nget away.  I am willing, said the fox, and showed him the by-paths\nand ways by which at length they reached the cellar.  There was\nmeat in abundance, and the wolf attacked it instantly and thought,\nthere is plenty of time before I need leave off.  The fox liked\nit also, but looked about everywhere, and often ran to the hole\nby which they had come in, to find out if his body was still\nthin enough to slip through it.  The wolf said, dear fox, tell\nme why you are running here and there so much, and jumping in\nand out.\nI must see that no one is coming, replied the crafty fellow.\nDon't eat too much.  Then said the wolf, I shall not leave until\nthe barrel is empty.  In the meantime the farmer, who had heard\nthe noise of the fox's jumping, came into the cellar.  When the\nfox saw him he was out of the hole at one bound.  The wolf\nwanted to follow him, but he had made himself so fat with\neating that he could no longer get through, but stuck fast.  Then\ncame the farmer with a cudgel and struck him dead, but the fox\nbounded into the forest, glad to be rid of the old glutton.\n"
+p11
+sb.

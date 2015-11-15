@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/171.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal086.html'
+p5
+sS'summary'
+p6
+S'A fox comes upon a flock of geese that he wishes to eat. The geese make him promise that he will wait to eat them until they have a chance to pray and receive forgiveness. The geese pray ceaselessly.'
+p7
+sS'name'
+p8
+S'The Fox and the Geese'
+p9
+sS'text'
+p10
+S'The fox once came to a meadow in which sat a flock of fine fat\ngeese, on which he smiled and said, I come in the nick of time,\nyou are sitting together quite beautifully, so that I can eat you\nup one after the other.  The geese cackled with terror, sprang\nup, and began to wail and beg piteously for their lives.  But\nthe fox would listen to nothing, and said, there is no mercy\nto be had.  You must die.  At length one of them took heart and\nsaid,  if we poor geese are to yield up our lives, show us the\nonly possible favor and allow us one more prayer, that we may\nnot die in our sins, and then we will place ourselves in a row,\nso that you can always pick yourself out the fattest.  Yes,\nsaid the fox, that is reasonable, and a pious request.  Pray\naway, I will wait till you are done.  Then the first began a\ngood long prayer, for ever saying, ga, ga, and as she would\nmake no end, the second did not wait until her turn came, but\nbegan also, ga, ga.  The third\nand fourth followed her, and soon they were all cackling\ntogether.\nWhen they have done praying, the story shall be continued further,\nbut at present they are still praying unceasingly.\n'
+p11
+sb.

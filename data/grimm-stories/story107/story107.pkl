@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/145.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal206.html'
+p5
+sS'summary'
+p6
+S"A rich sister refuses to share bread with her poor sister and her poor sister's five children. The rich sister's husband cuts himself a slice of bread and blood flows from the loaf. The rich sister is terrified and tells her husband what happened. The husband goes to help the poor sister. He finds her praying. Three of the children are already dead. She says God will now take care of them. As she says this, the two youngest children die along with their mother. "
+p7
+sS'name'
+p8
+S"God's Food"
+p9
+sS'text'
+p10
+S'There were once upon a time two sisters, one of whom had no\nchildren and was rich, and the other had five and was a\nwidow, and so poor that she no longer had food enough to satisfy\nherself and her children.  In her need, therefore, she went to\nher sister, and said, my children and I are suffering the greatest\nhunger.  You are rich, give me a mouthful of bread.  The very\nrich sister was as hard as a stone, and said, I myself have nothing\nin the house, and drove away the poor creature with harsh words.\nAfter some time the husband of the rich sister came home, and was\njust going to cut himself a piece of bread, but when he made the\nfirst cut into the loaf, out flowed red blood.  When the woman\nsaw that she was terrified and told him what had occurred.  He\nhurried away to help the widow and her children, but when he\nentered her room, he found her praying.  She had her two youngest\nchildren in her arms, and the three eldest were lying dead.  He\noffered her food, but she answered, for earthly food have we no\nlonger any desire.  God has already satisfied the hunger of three\nof us, and he will hearken to our supplications likewise.\nScarcely had she uttered these words than the two little ones\ndrew their last breath, whereupon her heart broke, and she sank\ndown dead.\n'
+p11
+sb.

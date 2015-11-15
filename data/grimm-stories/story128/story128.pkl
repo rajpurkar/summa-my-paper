@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/199.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal178.html'
+p5
+sS'summary'
+p6
+S"An unknown man stops a giant on the highway. The man identifies himself as death and insists the giant must obey him. They fight and the giant overcomes death and goes on his way. As death lays thinking what might happen if he were not able to get up again, a young man comes by who helps death restore his strength. Because of these kind actionsm death tells the youth he will not come for the youth unexpectedly but will send messengers beforehand. Feeling confident he will know when it is time for him to die, the youth lives a carefree life. Soon, however, the youth suffers with a variety of illnesses. After he has recovered and has begun to life happily again, death taps him on the shoulder. The youth argues that death's messengers were never sent. Death replies the messengers came in the..."
+p7
+sS'name'
+p8
+S"Death's Messengers"
+p9
+sS'text'
+p10
+S"In ancient times a giant was once traveling on a great highway,\nwhen suddenly an unknown man sprang up before him, and said,\nhalt, not one step farther.  What.  Cried the giant, a creature\nwhom I can crush between my fingers, wants to block my way.  Who\nare you that you dare to speak so boldly.  I am death, answered\nthe other.  No one resists me, and you also must obey my commands.\nBut the giant refused, and began to struggle with death.  It was\na long, violent battle, in which at last the giant got\nthe upper hand, and struck death down with his fist, so that he\ncollapsed by a stone.  The giant went his way, and death lay there\nconquered, and so weak that he could not get up again.  What will\nbe done now, said he, if I stay lying here in a corner.  No one\nwill die in the world, and it will get so full of people that they\nwon't have room to stand beside each other.  In the meantime a\nyoung man came along the road, who was strong and healthy,\nsinging a song, and glancing around on every side.  When he saw\nthe half-fainting one, he went compassionately to him, raised him\nup, poured a strengthening draught out of his flask for him, and\nwaited till he regained some strength.  Do you know, said the\nstranger, whilst he was getting up, who I am, and who it is whom\nyou have helped on his legs again.  No, answered the youth, I do\nnot know you.  I am death, said he, I spare no one, and can make\nno exception with you - but that you may see that I am grateful,\nI promise you that I will not fall on you unexpectedly, but will\nsend my messengers to you before I come and take you away.  Well,\nsaid the youth, it is something gained that I shall know when\nyou come, and at any rate be safe from you for so long.  Then he\nwent on his way, and was light-hearted, and enjoyed himself,\nand lived\nwithout thought.  But youth and health did not last long.  Soon\ncame sicknesses and sorrows, which tormented him by day, and took\naway his rest by night.  Die, I shall not, said he to himself, for\ndeath will send his messengers before that, but I do wish these\nwretched days of sickness were over.  As soon as he felt\nhimself well again he began once more to live merrily.  Then one\nday someone tapped him on the shoulder.  He looked round, and\ndeath stood behind him, and said, follow me, the hour of your\ndeparture from this world has come.  What, replied the man, will\nyou break your word.  Did you not promise me that you would send\nyour messengers to me before coming yourself.  I have seen none.\nSilence, answered death.  Have I not sent one messenger to you\nafter another.  Did not fever come and smite you, and shake you,\nand cast you down.  Has not dizziness bewildered your head.  Has\nnot gout twitched you in all your limbs.  Did not your ears sing.\nDid not tooth-ache bite into your cheeks.  Was it not dark before\nyour eyes.  And besides all that, has not my own brother sleep\nreminded you every night of me.  Did you not lie by night as if\nyou were already dead.  The man could make no answer, he yielded\nto his fate, and went away with death.\n"
+p11
+sb.

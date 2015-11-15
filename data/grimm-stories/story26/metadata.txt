@@ -1,0 +1,3 @@
+name: Hans Married
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/063.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal084.html

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/144.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal205.html'
+p5
+sS'summary'
+p6
+S"A king's son asks a poor man what he can do to get to heaven. The poor man tells him he must live in poverty and humility for seven years. The king's son changes clothes with the poor man and starts his life of poverty. After seven years, the king's son goes back to his father's palace but no one there recognizes him. He writes a letter to the queen telling of his miserable life but does not include his identity. The queen gives him a place to stay under the stairs. She also gives him food, but one of the servants does not take the son the food as instructed. As a result, the son becomes sick and finally dies. When he is found, the man lies with a rose in one hand and a lily..."
+p7
+sS'name'
+p8
+S'Poverty and Humility Lead to Heaven'
+p9
+sS'text'
+p10
+S"There was once a king's son who went out into the world, and\nhe was full of thought and sad.  He looked at the sky, which\nwas so beautifully pure and blue, then he sighed, and said,\nhow well must all be with one up there in heaven.\nThen he saw a poor gray-haired man who was coming along the\nroad towards him, and he spoke to him, and asked, how can I\nget to heaven.  The man answered, by poverty and humility.  Put\non my ragged clothes, wander about the world for seven years,\nand get to know what misery is, take no money, but if you are hungry\nask compassionate hearts for a bit of bread.  In this way you will\nreach heaven.\nThen the king's son took off his magnificent coat, and wore in\nits place the beggar's garment, went out into the wide world,\nand suffered great misery.  He took nothing but a little food,\nsaid nothing, but prayed to the Lord to take him into his\nheaven.  When the\nseven years were over, he returned to his father's palace, but no\none recognized him.  He said to the servants, go and tell my\nparents that I have come back again.  But the servants did not\nbelieve it, and laughed and left him standing there.  Then said he,\ngo and tell it to my brothers that they may come down, for I\nshould so like to see them again.  The servants would not do that\neither, but at last one of them went, and told it to the king's\nchildren, but these did not believe it, and did not trouble\nthemselves about it.  Then he wrote a letter to his mother, and\ndescribed to her all his misery, but he did not say that he was\nher son.  So out of pity, the queen had a place under the stairs\nassigned to him, and food taken to him daily by two servants.  But\none of them was ill-natured and said, why should the beggar have\nthe good food, and kept it for himself, or gave it to the\ndogs, and took the weak, emaciated beggar nothing but water.  The\nother, however, was honest, and took the beggar what was sent to\nhim.  It was little, but he could live on it for a while, and\nall the time he was quite patient, but he grew continually weaker.\nAs his illness increased, he desired to receive the last sacrament.\nWhen the mass was being celebrated, all the bells in the town and\nneighborhood began to ring of their own accord.  After mass the\npriest went to the poor man under the stairs, and there he lay\ndead.  In one hand he had a rose, in the other a lily, and beside\nhim was a paper on which was written his history.\nWhen he was buried, a rose grew on one side of his grave, and a\nlily on the other.\n"
+p11
+sb.

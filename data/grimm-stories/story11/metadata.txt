@@ -1,0 +1,3 @@
+name: Fair Katrinelje and Pif-Paf-Poltrie
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/100.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal131.html

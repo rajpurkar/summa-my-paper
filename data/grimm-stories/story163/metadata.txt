@@ -1,0 +1,3 @@
+name: Old Hildebrand
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/173.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal095.html

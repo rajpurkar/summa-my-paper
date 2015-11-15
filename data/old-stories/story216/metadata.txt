@@ -1,0 +1,5 @@
+name: To Build a Fire
+author: Jack London
+content_link: http://http://americanliterature.com/100-great-short-stories
+summary_link: http://http://americanliterature.com/100-great-short-stories
+date: 11/10/14

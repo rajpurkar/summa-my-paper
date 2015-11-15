@@ -1,0 +1,3 @@
+name: The Aged Mother
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/147.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal209.html

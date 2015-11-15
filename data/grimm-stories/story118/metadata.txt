@@ -1,0 +1,3 @@
+name: The Goose-Girl at the Well
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/128.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal180.html

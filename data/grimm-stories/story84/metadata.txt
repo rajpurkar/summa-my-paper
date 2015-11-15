@@ -1,0 +1,3 @@
+name: The Dog and the Sparrow
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/161.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal058.html

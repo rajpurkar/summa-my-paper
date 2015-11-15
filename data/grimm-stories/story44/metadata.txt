@@ -1,0 +1,3 @@
+name: The Three Green Twigs
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/146.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal207.html

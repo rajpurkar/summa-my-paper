@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/198.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal177.html'
+p5
+sS'summary'
+p6
+S"God speaks to several creatures to determine what their span of life will be. He asks the donkey if thirty years is satisfactory, to which the donkey replies that thirty years is much too long the bear the burdens he will have to bear. God takes this into consideration and shortens the span by eighteen years. Next the dog also begs for a shorter life, so God knocks twelve years off the span of the dog's life. Finally the monkey also doesn't want to be on earth where he will be made fun of for thirty years. Therefore, God shortens the monkey's life span by ten years. Next, God approaches man. Thirty years is much too short a lifetime according to the man. For this reason, God adds to the man's life the years he removed from the other animals' life..."
+p7
+sS'name'
+p8
+S'The Duration of Life'
+p9
+sS'text'
+p10
+S"When God created the world and was about to fix the length of\neach creature's life, the ass came and asked, Lord, how long shall\nI live.  Thirty years, replied God, does that content you.  Ah,\nLord, answered the ass, that is a long time.  Think of my painful\nexistence.  To carry heavy burdens from morning to night, to drag\nsacks of corn to the mill that others may eat bread, to be\ncheered and refreshed with nothing but blows and kicks.  Relieve\nme of a portion of this long time.  Then God had pity on him and\nrelieved him of eighteen years.  The ass went away comforted, and\nthe dog appeared.  How long would you like to live, said God to\nhim, thirty years are too many for the ass, but you will be\nsatisfied with that.  Lord, answered the dog, is that thy will.\nConsider how I shall have to run, my feet will never hold out so\nlong, and when I have once lost my voice for barking, and my teeth\nfor biting, what will be left for me to do but run from one\ncorner to another and growl.  God saw that he was right, and\nreleased him from twelve years of life.  Then came the monkey.\nYou will certainly live thirty years willingly, said the Lord to\nhim, you have no need to work as the ass and the dog have to, and\nwill always enjoy yourself.  Ah, Lord, he answered, it may seem\nas if that were the case, but it is quite different.  When it\nrains millet-porridge I have no spoon.  I am always to play merry\npranks, and make faces which force people to laugh, and if they\ngive me an apple, and I bite into it, why, it is sour.  How often\nsadness hides itself behind mirth.  I shall never be able to hold\nout for thirty years.  God was gracious and took off ten.\nAt last man appeared, joyous, healthy and vigorous, and begged\nGod to appoint his time for him.  Thirty years shall you live,\nsaid the Lord.  Is that enough for you.  What a short time, cried\nman, when I have built my house and my fire burns on my own\nhearth, when I have planted trees which blossom and bear fruit,\nand am just intending to enjoy my life, I am to die.  O Lord,\nlengthen my time.  I will add to it the ass's eighteen years, said\nGod.  That is not enough, replied the man.  You shall also have\nthe dog's twelve years.  Still too little.  Well, then, said God,\nI will give you the monkey's ten years also, but more you shall\nnot have.  The man went away, but was not satisfied.\nSo man lives seventy years.  The first thirty are his human\nyears, which are soon gone, then is he healthy, merry, works with\npleasure, and is glad of his life.  Then follow the ass's\neighteen years, when one burden after another is laid on him, he\nhas to carry the corn which feeds others, and blows and kicks are\nthe reward of his faithful services.  Then comes the dog's twelve\nyears, when he lies in the corner, and growls and has no longer\nany teeth to bite with, and when this time is over the monkey's\nten years form the end.  Then man is weak-headed and foolish,\ndoes silly things, and becomes the jest of children.\n"
+p11
+sb.

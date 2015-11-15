@@ -1,0 +1,3 @@
+name: The Seven Swabians
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/178.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal119.html

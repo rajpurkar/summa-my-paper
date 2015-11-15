@@ -1,0 +1,3 @@
+name: Old Sultan
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/037.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal048.html

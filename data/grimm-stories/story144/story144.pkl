@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/182.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal148.html'
+p5
+sS'summary'
+p6
+S"The Lord creates the wolf. The devil creates the goat. The goats' long tails get caught in the hedges so the devil bites off the tails. The goats destroy fruit bearing trees and vines. The Lord sets his wolves on the goats and they are killed. The devil explains to the Lord any animal the devil has created must have the destructive nature of the devil. The Lord then tricks the devil, and in his anger the devil puts out the eyes of all the goats and puts his eyes in the animals instead."
+p7
+sS'name'
+p8
+S"The Lord's Animals and the Devil's"
+p9
+sS'text'
+p10
+S"The Lord God had created all animals, and had chosen out the wolf to\nbe his dog, but he had forgotten the goat.  Then the devil made\nready and began to create also, and created goats with fine long\ntails.  Now when they went to pasture, they generally remained\ncaught in the hedges by their tails, whereupon the devil had to go\nand disentangle them, with a great deal of trouble.  This enraged\nhim at last, and he went and bit off the tail of every goat, as may\nbe seen to this day by the stump.\nThen he let them go to pasture alone, but it came to pass that the\nLord God perceived how at one time they gnawed away at a fruitful\ntree, at another injured the noble vines, or destroyed other tender\nplants.  This distressed him, so that in his goodness and mercy he\nsummoned his wolves, who soon tore in pieces the goats that went\nthere.  When the devil observed this, he went before the Lord and\nsaid, your creatures have destroyed mine.  The Lord answered, why\ndid you create things to do harm.  The devil said, I was compelled\nto do it, inasmuch as my thoughts run on evil.  What I\ncreate can have no other nature, and you must pay me heavy damages.\nI will pay you as soon as the oak leaves fall, come then, your money\nwill then be ready counted out.  When the oak-leaves had fallen, the\ndevil came and demanded what was due to him.  But the Lord said, in\nthe church of constantinople stands a tall oaktree which still has\nall its leaves.  With raging and curses, the devil departed, and\nwent to seek the oak, wandered in the wilderness for six months\nbefore he found it, and when he returned, all the oaks had in the\nmeantime covered themselves again with green leaves.  Then he had to\nforfeit his indemnity, and in his rage he put out the eyes of all\nthe remaining goats, and put his own in instead.\nThis is why all goats have devil's eyes, and their tails bitten off,\nand why he likes to assume their shape.\n"
+p11
+sb.

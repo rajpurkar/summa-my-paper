@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/190.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal168.html'
+p5
+sS'summary'
+p6
+S"A peasant and a rich man die and go to heaven at the same time. St. Peter lets the rich man in but seems to overlook the peasant. While waiting outside the gates, the peasant hears much singing and rejoicing at the rich man's entrance into heaven. When St. Peter opens the gates again, he sees the peasant and lets him in. The peasant is welcomed warmly but there is no singing or rejoicing. The peasant assumes heaven is no different than earth, with the rich preferred over the poor. St. Peter tells him the rejoicing was because peasants were admitted every day while rich people came only rarely."
+p7
+sS'name'
+p8
+S'The Peasant in Heaven'
+p9
+sS'text'
+p10
+S'Once upon a time a poor pious peasant died, and arrived before\nthe gate of heaven.  At the same time a very rich, rich lord\ncame there who also wanted to get into heaven.  Then saint\npeter came with the key, and opened the door, and let the\ngreat man in, but apparently did not see the peasant, and shut\nthe door again.  And now the peasant outside heard how the\ngreat man was received in heaven with all kinds of rejoicing,\nand how they were making music, and singing within.  At length\nall became quiet again, and saint peter came and opened the gate\nof heaven, and let the peasant in.  The peasant, however,\nexpected that they would make music and sing when he went in\nalso, but all remained quite quiet.  He was received with great\naffection, it is true, and the angels came to meet him, but no\none sang.  Then the peasant asked saint peter how it was that\nthey did not sing for him as they had done when the rich man\nwent in, and said that it seemed to him that there in heaven\nthings were done with just as much partiality as on earth.  Then\nsaid saint peter, by no means, you are just as dear to us as\nanyone else, and will enjoy every heavenly delight that the\nrich man enjoys, but poor fellows like you come to heaven every\nday, but a rich man like this does not come more than once in a\nhundred years.\n'
+p11
+sb.

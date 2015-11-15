@@ -1,0 +1,3 @@
+name: Gossip Wolf and the Fox
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/057.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal074.html

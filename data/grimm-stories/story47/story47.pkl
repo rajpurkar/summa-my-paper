@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/159.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal039.html'
+p5
+sS'summary'
+p6
+S'First story - A group of elves mysteriously help a shoemaker. The shoemaker rewards them with clothing and they are never seen again. '
+p7
+sS'name'
+p8
+S'The Elves'
+p9
+sS'text'
+p10
+S"A shoemaker, by no fault of his own, had become so poor that at\nlast he had nothing left but leather for one pair of shoes.  So in\nthe evening, he cut out the shoes which he wished to begin to\nmake the next morning, and as he had a good conscience, he lay\ndown quietly in his bed, commended himself to God, and fell\nasleep.  In the morning, after he had said his prayers, and was\njust going to sit down to work, the two shoes stood quite finished\non his table.  He was astounded, and knew not what to think.  He\ntook the shoes in his hands to observe them closer, and they were\nso neatly made, with not one bad stitch in them, that it was just\nas if they were intended as a masterpiece.  Before long, a buyer\ncame in, and as the shoes pleased him so well, he paid more for\nthem than was customary, and, with the money, the shoemaker was\nable to purchase leather for two pairs of shoes.  He cut them out\nat night, and next morning was about to set to work with fresh\ncourage, but he had no need to do so for, when he got up, they\nwere already made, and buyers also were not wanting, who gave\nhim money enough to buy leather for four pairs of shoes.  Again\nthe following morning he found the pairs made, and so it went on\nconstantly, what he cut out in the evening was finished by the\nmorning, so that he soon had his honest independence again, and\nat last became a wealthy man.\nNow it befell that one evening not long before christmas, when\nthe man had been cutting out, he said to his wife, before going to\nbed, what think you if we were to stay up to-night to see who it\nis that lends us this helping hand.  The woman liked the idea,\nand lighted a candle, and then they hid themselves in a corner of\nthe room, behind some clothes which were hanging up there, and\nwatched.  When it was midnight, two pretty little naked men came,\nsat down by the shoemaker's table, took all the work which was\ncut out before them and began to stitch, and sew, and hammer so\nskilfully and so quickly with their little fingers that the\nshoemaker could not avert his eyes for astonishment.  They did\nnot stop until all was done, and stood finished on the table,\nand they ran quickly away.\nNext morning the woman said, the little men have made us rich,\nand we really must show that we are grateful for it.  They run\nabout so, and have nothing on, and must be cold.  I'll tell you\nwhat I'll do, I will make them little shirts, and coats, and\nvests, and trousers, and knit both of them a pair of stockings,\nand you make them two little pairs of shoes.  The man said, I shall\nbe very glad to do it.  And one night, when everything was ready,\nthey laid their presents all together on the table instead of\nthe cut-out work, and then concealed themselves to see how the\nlittle men would behave.  At midnight they came bounding in, and\nwanted to get to work at once, but as they did not find any\nleather cut out, but only the pretty little articles of clothing,\nthey were at first astonished, and then they showed intense\ndelight.  They dressed themselves with the greatest rapidity, put\non the beautiful clothes, and sang,\n     now we are boys so fine to see,\n     why should we longer cobblers be.\nThen they danced and skipped and leapt over chairs and benches.\nAt last they danced out of doors.  From that time forth they\ncame no more, but as long as the shoemaker lived all went well\nwith him, and all his efforts prospered.\n"
+p11
+sb.

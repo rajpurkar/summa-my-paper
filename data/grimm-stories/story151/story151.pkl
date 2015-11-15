@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/142.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal203.html'
+p5
+sS'summary'
+p6
+S'A woman with twelve sons is so poor that she finally feels she must send her children out one by one to look for bread. She prays only that all her children will be alive when the Lord is born. One by one the sons are all taken by a small boy angel to a cavern where they are rocked to sleep. The boys sleep for three hundred years until the time the Lord is born. At this time, they are awakened and serve Him as the twelve apostles.'
+p7
+sS'name'
+p8
+S'The Twelve Apostles'
+p9
+sS'text'
+p10
+S"Three hundred years before the birth of the Lord christ, there\nlived a mother who had twelve sons, but was so poor and needy\nthat she no longer knew how she was to keep them alive.  She\nprayed to God daily that he would grant that all her sons might\nbe on the earth with the redeemer who was promised.  When her\nnecessity became still greater she sent one of them after the\nother out into the world to seek their bread.  The eldest was\ncalled peter, and he went out and had already walked a long\nway, a whole day's journey, when he came into a great forest.\nHe sought for a way out, but could find none, and went farther\nand farther astray, and at the same time felt such great hunger\nthat he could scarcely stand.  At length he became so weak that\nhe was forced to lie down, and he believed death to be at\nhand.  Suddenly there stood beside him a small boy who shone\nwith brightness, and was as beautiful and kind as an angel.\nThe child smote his little hands together, until peter was\nforced to look up and see him.  Then the child said, why are\nyou sitting there in such trouble.  Alas. Answered peter, I\nam going about the world seeking bread, that I may yet see the\ndear savior who is promised, that is my greatest desire.  The\nchild said, come with me, and your wish shall be fulfilled.  He\ntook poor peter by the hand, and led him between some cliffs to a\ngreat cavern.  When they entered it, everything was shining\nwith gold, silver, and crystal, and in the midst of it twelve\ncradles were standing side by side.  Then said the little angel,\nlie down in the first, and sleep a while, I will rock you.\nPeter did so, and the angel sang to him and rocked him until\nhe was alseep. And when he was asleep, the second brother came\nalso, guided thither by his guardian angel, and he was rocked\nto sleep like the first, and thus came the others, one after\nthe other, until all twelve lay there sleeping in the golden\ncradles.  They slept, however, three hundred years, until the\nnight when the savior of the world was born.  Then they awoke,\nand were with him on earth, and were called the twelve apostles.\n"
+p11
+sb.

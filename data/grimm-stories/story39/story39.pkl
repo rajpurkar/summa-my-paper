@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/113.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal145.html'
+p5
+sS'summary'
+p6
+S"A son will not let his father have any roast chicken. The chicken turns into a huge toad that attaches itself to the son's face. For the rest of his life the son goes around with this amphibian and is forced to feed it. "
+p7
+sS'name'
+p8
+S'The Ungrateful Son'
+p9
+sS'text'
+p10
+S'A man and his wife were once sitting by the door of their house,\nand they had a roasted chicken set before them, and were about\nto eat it together.  Then the man saw that his aged father was\ncoming, and hastily took the chicken and hid it, for he would\nnot permit him to have any of it.  The old man came, took a drink,\nand went away.  Now the son wanted to put the roasted chicken on\nthe table again, but when he took it up, it had become a great\ntoad, which jumped into his face and sat there and never went\naway again, and if any one wanted to take it off, it looked\nvenomously at him as if it would jump in his face, so that no\none would venture to touch it.  And the ungrateful son was forced\nto feed the toad every day, or else it fed itself on his face,\nand thus he went about the world knowing no rest.\n'
+p11
+sb.

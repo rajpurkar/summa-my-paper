@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/206.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal191.html'
+p5
+sS'summary'
+p6
+S"George pesters his chickens until they finally give in and eat crumbs off their mistress' table. As soon as they eat, they are caught by the mistress who beats them. "
+p7
+sS'name'
+p8
+S'The Crumbs on the Table'
+p9
+sS'text'
+p10
+S"George one day said to his little chickens, come into the\nparlor and enjoy yourselves, and pick up the bread-crumbs\non the table.  Your mistress has gone out to pay some visits.\nThen the chickens said, no, no, we will not go.  If\nthe mistress gets to know it, she will beat us.  George said,\nshe will\nknow nothing about it.  So come.  After all, she never gives\nyou anything good.  Then the chickens again said, nay, nay, we\nmust let it alone.  We must not go.  But george let them have\nno peace until at last they went, and got on the table, and ate\nup the bread-crumbs with all their might.  But at that very moment\nthe mistress came, and seized the stick in great haste, and\nbeat them and treated them very harshly.  And when they were\noutside the house, the chickens said to george, do, do, do, do,\ndo, you see.  Then george laughed and said, didn't, didn't, didn't,\nI expect it.  So they just had to run away.\n"
+p11
+sb.

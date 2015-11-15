@@ -1,0 +1,5 @@
+name: The Omnibus
+author: Arthur Quiller-Couch
+content_link: http://http://americanliterature.com/100-great-short-stories
+summary_link: http://http://americanliterature.com/100-great-short-stories
+date: 11/10/14

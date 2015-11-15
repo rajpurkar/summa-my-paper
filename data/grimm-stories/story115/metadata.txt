@@ -1,0 +1,3 @@
+name: The Master-Thief
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/135.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal193.html

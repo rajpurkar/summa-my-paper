@@ -1,0 +1,3 @@
+name: The Wolf and the Seven Little Kids
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/004.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal005.html

@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/180.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal128.html'
+p5
+sS'summary'
+p6
+S'A lazy woman makes her husband feel accountable for her lack of work. She tricks her husband into believing cutting reels will cause him to die. She also deceives him by making him believe her is responsible for ruining her yarn. '
+p7
+sS'name'
+p8
+S'The Lazy Spinner'
+p9
+sS'text'
+p10
+S"In a certain village there once lived a man and his wife, and\nthe wife was so lazy that she would never work at anything.\nWhatever her husband gave her to spin, she did not get done,\nand what she did spin she did not wind, but let it all remain\nentangled in a heap.  If the man scolded her, she was always\nready with her tongue, and said, well, how should I wind it,\nwhen I have no reel.  Just you go into the forest and get me\none.  If that is all, said the man, then I will go into the\nforest, and get some wood for making reels.  Then the woman\nwas afraid that if he had the wood he would make her a reel\nof it, and she would have to wind her yarn\noff, and then begin to spin again.  She bethought herself a\nlittle, and then a lucky idea occurred to her, and she\nsecretly followed the man into the forest, and when he had\nclimbed into a tree to choose and cut the wood, she crept\ninto the thicket below where he could not see her, and cried,\n     he who cuts wood for reels shall die,\n     and he who winds, shall perish.\nThe man listened, laid down his axe for a moment, and began\nto consider what that could mean.  Well, he said at last,\nwhat can that have been, my ears must have been singing, I\nwon't alarm myself for nothing.  So he once more seized the\naxe, and began to hew.  Then again there came a cry from\nbelow,\n     he who cuts wood for reels shall die,\n     and he who winds, shall perish.\nHe stopped, and felt afraid and alarmed, and pondered over\nthe circumstance.  But when a few moments had passed, he took\nheart again, and a third time he stretched out his hand for\nthe axe, and began to cut.  But someone called out a third\ntime, and said loudly,\n     he who cuts wood for reels shall die,\n     and he who winds, shall perish.\nThat was enough for him, and all inclination had departed\nfrom him, so he hastily descended the tree, and set out on\nhis way home.  The woman ran as fast as she could by byways\nso as to get home\nfirst.  So when he entered the parlor, she put on an\ninnocent look as if nothing had happened, and said, well,\nhave you brought a nice piece of wood for reels.  No, said he,\nI see very well that winding won't do, and told her what had\nhappened to him in the forest, and from that time forth left\nher in peace about it.  Neverthless after some time, the man\nagain began to complain of the disorder in the house.  Wife,\nsaid he, it is really a shame that the spun yarn should lie\nthere all entangled.  I'll tell you what, said she, as we\nstill don't come by any reel, go you up into the loft, and I\nwill stand down below, and will throw the yarn up to you,\nand you will throw it down to me, and so we shall get a\nskein after all.  Yes, that will do, said the man.  So they\ndid that, and when it was done, he said, the yarn is in\nskeins, now it must be boiled.  The woman was again\ndistressed, and said, yes, we will boil it to-morrow morning\nearly.  But she was secretly contriving another trick.\nEarly in the morning she got up, lighted a fire, and put the\nkettle on, only instead of the yarn, she put in a lump of tow\nand let it boil.  After that she went to the man who was\nstill lying in bed, and said to him, I must just go out, you\nmust get up and look after the yarn which is in the kettle on\nthe fire, but you must be at hand at once, mind that, for if\nthe cock should happen to crow, and you are not attending to\nthe yarn, it will become tow.  The man was willing and took\ngood care not to loiter.  He got up as quickly as he could,\nand went into the kitchen.  But when he reached the kettle\nand peeped in, he saw, to his horror, nothing but a lump of\ntow.  Then the poor man was as still as a mouse, thinking\nhe had neglected it, and was to blame, and in future said\nno more about yarn and spinning.  But you yourself must own\nthat she was an odious woman.\n"
+p11
+sb.

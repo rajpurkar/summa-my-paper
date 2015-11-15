@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/107.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal139.html'
+p5
+sS'summary'
+p6
+S"A maiden begs St. Anne to help her find a husband. A clerk replies the maiden will not have a husband. The maiden believes the statue of Anne's child Mary has said this and tells her to hush and let her mother talk."
+p7
+sS'name'
+p8
+S'The Maid of Brakel'
+p9
+sS'text'
+p10
+S"A girl from brakel once went to St. Anne's chapel at the foot\nof the hinnenberg, and as she wanted to have a husband, and\nthought there was no one else in the chapel, she sang,\n               oh, holy saint anne.\n               Help me soon to a man.\n               Thou know'st him right well,\n               by suttmer gate does he dwell,\n               his hair it is yellow,\n               thou know'st him right well.\nThe clerk, however, was standing behind the altar and heard\nthat, so he cried in a very gruff voice, you shall not have him.\nYou shall not have him.\nThe maiden thought that the child mary who stood by her mother\nanne had called out that to her, and was angry, and cried,\nfiddle de dee, conceited thing, hold your tongue, and let your\nmother speak.\n"
+p11
+sb.

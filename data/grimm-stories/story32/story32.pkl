@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/116.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal151.html'
+p5
+sS'summary'
+p6
+S'A king decides to grant his kingdom to his laziest son. All three sons make up stories about how lazy they are. The kingdom is awarded to the third son because he carried the tale the furthest. '
+p7
+sS'name'
+p8
+S'The Three Sluggards'
+p9
+sS'text'
+p10
+S'A certain king had three sons who were all equally dear to\nhim, and he did not know which of them to appoint as his successor\nafter his own death.  When the time came when he was about to\ndie, he summoned them to his bedside and said, dear children,\nI have been thinking of something which I will declare unto\nyou, whichsoever of you is the laziest shall have the kingdom.\nThe eldest said, then, father, the kingdom is mine, for I am so\nidle that if I lie down to rest, and a drop falls in my eye,\nI will not open it that I may sleep.  The second said, father,\nthe kingdom belongs to me, for I am so idle that when I am\nsitting by the fire warming myself, I would rather let my heel\nbe burnt off than draw back my leg.  The third said, father,\nthe kingdom is mine, for I am so idle that if I were going to\nbe hanged, and had the rope already round my neck, and any one\nput a sharp knife into my hand with which I might cut the rope,\nI would rather let myself be hanged than raise my hand to the rope.\nWhen the father heard that, he said, you have carried it the\nfarthest, and shall be king.\n'
+p11
+sb.

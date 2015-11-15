@@ -1,0 +1,3 @@
+name: The Flail from Heaven
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/176.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal112.html

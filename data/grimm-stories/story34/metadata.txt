@@ -1,0 +1,3 @@
+name: Sweetheart Roland
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/045.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal056.html

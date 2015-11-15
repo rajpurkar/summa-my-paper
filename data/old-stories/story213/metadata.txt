@@ -1,0 +1,5 @@
+name: A New England Nun
+author: Mary E. Wilkins Freeman
+content_link: http://http://americanliterature.com/100-great-short-stories
+summary_link: http://http://americanliterature.com/100-great-short-stories
+date: 11/10/14

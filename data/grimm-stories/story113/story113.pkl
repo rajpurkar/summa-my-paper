@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/031.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal042.html'
+p5
+sS'summary'
+p6
+S"A man with many children learns he is to pick the first person who comes to him at the city gates as the next godfather. This person agrees to be godfather and gives the man a glass of water that can be used to heal dying people. The godfather instructs that if death is standing at the person's head, the water will cure them, if death is standing at the person's feet, the water will not cure them. The man becomes so famous with his water that even the king asks for the man to come and heal his sons. One day the man goes to tell the godfather about the success he has had with the water. The man enters the godfather's house to find all sorts of strange things. The man questions the godfather about the strange things he has seen and the..."
+p7
+sS'name'
+p8
+S'The Godfather'
+p9
+sS'text'
+p10
+S"A poor man had so many children that he had already asked\neveryone in the world to be godfather, and when still another\nchild was born, no one else was left whom he could invite.\nHe knew not what to do, and, in his perplexity, he lay down\nand fell asleep.  Then he dreamt that he was to go outside the\ngate,\nand ask the first person he met to be godfather.  When he awoke,\nhe determined to obey his dream, and went outside the gate, and\nasked the first person who came up to him to be godfather.  The\nstranger presented him with a little glass of water, and said,\nthis is a wonderful water, with it you can heal the sick, only\nyou must see where death is standing.  If he is standing by the\npatient's head, give the patient some of the water and he will\nbe healed, but if death is standing by his feet, all trouble\nwill be in vain, for the sick man must die.  From this time forth,\nthe man could always say whether a patient could be saved or\nnot, and became famous for his skill, and earned a great deal\nof money.  Once he was called in to the child of the king, and\nwhen he entered, he saw death standing by the child's head and\ncured it with the water, and he did the same a second time, but\nthe third time death was standing by its feet, and then he knew\nthe child had to die.\n\nOnce the man thought he would visit the godfather, and tell him\nhow he had succeeded with the water.  But when he entered the\nhouse, the strangest things were going on within.  On the first\nflight of stairs, the broom and shovel were disputing, and\nknocking each other about violently.  He asked them, where does\nthe godfather live.  The broom replied, one flight of stairs\nhigher up.  When he came to the second flight, he saw a heap of\ndead fingers lying.  He asked, where does the godfather live.\nOne of the fingers replied, one flight of stairs higher.  On\nthe third flight lay a heap of dead heads, which again directed\nhim to the flight beyond.  On the fourth flight, he saw fishes on\nthe fire, which frizzled in pans and baked themselves.  They,\ntoo, said, one flight of stairs higher.  And when he had\nascended the fifth, he came to the door of a room and peeped\nthrough the keyhole, and there he saw the godfather who had\na pair of long horns.  When he opened the door and went in,\nthe godfather got into bed in a great hurry and covered himself\nup.  Then said the man, sir godfather, what a strange house-hold\nyou have.  When I came to your first flight of stairs, the shovel\nand broom were quarreling, and beating each other violently.\nHow stupid you are, said the godfather.  That was the boy\nand the maid talking to each other.  But on the second flight I\nsaw dead fingers lying.  Oh, how silly you are.  Those were some\nroots of scorzonera.  On the third flight lay a heap of dead\nmen's heads.  Foolish man, those were cabbages.  On the fourth\nflight I saw fishes in a pan, which were hissing and baking\nthemselves.  When he had said that, the fishes came and served\nthemselves up.  And when I got to the fifth flight, I peeped\nthrough the keyhole of a door, and there, godfather, I saw\nyou and you had long, long horns.  Oh, that is not true.  The\nman became alarmed, and ran out, and if he had not, who knows\nwhat the godfather would have done to him.\n"
+p11
+sb.

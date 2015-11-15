@@ -1,0 +1,3 @@
+name: Frau Trude
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/032.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal043.html

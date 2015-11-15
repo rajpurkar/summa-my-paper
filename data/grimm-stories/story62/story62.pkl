@@ -1,0 +1,25 @@
+(i__main__
+Story
+p0
+(dp1
+S'textLink'
+p2
+S'https://www.cs.cmu.edu/~spok/grimmtmp/186.txt'
+p3
+sS'summaryLink'
+p4
+S'http://www.bookrags.com/studyguide-brothers-grimm/chapanal159.html'
+p5
+sS'summary'
+p6
+S'A stream of unconnected impossibilities and lies make up the bulk of this story.'
+p7
+sS'name'
+p8
+S'The Story of Schlauraffen Land'
+p9
+sS'text'
+p10
+S"In the time of schlauraffen I went forth and saw rome and the\nlateran hanging by a small silken thread, and a man without feet who\noutran a swift horse, and a keen sharp sword that cut through a\nbridge.  I saw a young ass with a silver nose which pursued two\nfleet hares, and a lime-tree that was very large, on which hot cakes\nwere growing.  I saw a lean old goat which carried about a hundred\ncart-loads of fat on his body, and sixty loads of salt.  Have I not\ntold enough lies.  I saw a plough ploughing without horse or cow,\nand a child of one year threw four millstones from ratisbon to\ntreves, and from treves to strasburg, and a hawk swam over the\nrhine, which he had a perfect right to do.  I heard some fishes\nbegin to make such a disturbance with each other, that it resounded\nas far as heaven, and sweet honey flowed like water from a deep\nvalley to the top of a high mountain, and these were strange things.\nThere were two crows which were mowing a meadow, and I saw two gnats\nbuilding a bridge, and two doves tore a wolf to pieces, two children\nbrought forth two kids, and two frogs threshed corn\ntogether.  I saw two mice consecrating a bishop, and two cats\nscratching out a bear's tongue.  Then a snail came running up and\nkilled two furious lions.  There stood a barber and shaved a woman's\nbeard off, and two sucking-children bade their mother hold her\ntongue.  There I saw two greyhounds which brought a mill out of the\nwater, and a broken-down old horse was beside it, and said it was\nright.  And four horses were standing in the yard threshing corn\nwith all their might, and two goats were heating the stove, and a\nred cow shot the bread into the oven.  Then a hen crowed,\ncock-a-doodle-doo.  The story is all told, cock-a-doodle-doo.\n"
+p11
+sb.

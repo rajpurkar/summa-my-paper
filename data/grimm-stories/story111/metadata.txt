@@ -1,0 +1,3 @@
+name: The Devil and His Grandmother
+content_link: https://www.cs.cmu.edu/~spok/grimmtmp/095.txt
+summary_link: http://www.bookrags.com/studyguide-brothers-grimm/chapanal125.html

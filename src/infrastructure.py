@@ -2,7 +2,6 @@ import os
 import sys
 import ntpath
 import io
-import urllib2 as urllib
 import re
 
 import ashlib.util.file_
@@ -47,7 +46,7 @@ class DataSet(list):
 
         if randomize:
             partition = DataSet()
-            partitionIndices = random.sample(range(len(self)), partitionSize)
+            partitionIndices = random.sample(list(range(len(self))), partitionSize)
             partitionIndices = sorted(partitionIndices, reverse=True)
             # because the indices are in descending order, removing doesn't alter indices
             for index in partitionIndices:
@@ -96,13 +95,13 @@ class Story(object):
         self.summary = self.summaries[0]
 
     def parse(self, languageProcessor):
-        if VERBOSE: print "Parsing story:", self.name
+        if VERBOSE: print("Parsing story:", self.name)
         
         self.text.parse(languageProcessor)
         for summary in self.summaries:
             summary.parse(languageProcessor)
         
-        if VERBOSE: print "Finished parsing story", self.name
+        if VERBOSE: print("Finished parsing story", self.name)
 
     @classmethod
     def fromDirectory(cls, dirPath, readFromCache=False, writeToCache=False, languageProcessor=None, modification=None):
@@ -138,7 +137,7 @@ class Story(object):
 
         if writeToCache:
             ashlib.util.cache.dump(story, os.path.join(dirPath, CACHE_FILE_NAME))
-            if VERBOSE: print "Cached story:", story.name
+            if VERBOSE: print("Cached story:", story.name)
 
         return story
 
@@ -153,7 +152,7 @@ class Document(object):
         self.sentences = []
     
     def parse(self, languageProcessor):
-        if VERBOSE: print "Parsing document"
+        if VERBOSE: print("Parsing document")
         
         sentencesContents = languageProcessor.tokenizeSentences(ashlib.util.str_.sanitize(self.__initialContent))
         self.sentences = []
@@ -162,7 +161,7 @@ class Document(object):
             sentence.parse(languageProcessor)
             self.sentences.append(sentence)
         
-        if VERBOSE: print "Finished parsing document"
+        if VERBOSE: print("Finished parsing document")
 
     def content(self): ## TODO: replace with "gloss"
         return " ".join([sentence.content() for sentence in self.sentences])
@@ -232,7 +231,7 @@ class Sentence():
         self.posTags = languageProcessor.posTags(words)
         self.nerTags = languageProcessor.nerTags(words)
         
-        if VERBOSE: print "Finished parsing sentence:", self.content()
+        if VERBOSE: print("Finished parsing sentence:", self.content())
     
     def removeWord(self, index):
         del self.words[index]

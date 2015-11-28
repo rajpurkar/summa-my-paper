@@ -28,43 +28,63 @@ class SentenceFeaturizer(object):
     def featurize(self, sentence):
         raise NotImplementedError("Subclasses should override.")
 
+    def transform(self, sentences):
+        return [self.featurize(sentence) for sentence in sentences]
+
 ## SentenceFeaturizer #################################################################################
 
 class BOWFeaturizer(SentenceFeaturizer):
     
-    def __init__(self):
-        pass
-    
-    def train(self, dataSet):
-        # data set-level supervised learning
-        pass
-    
-    def calibrate(self, document):
-        # document-specific unsupervised learning
-        pass
-    
     def featurize(self, sentence):
         return sentence.words
+
+# SentenceQualityRegressor ####################################
+
+class SentenceQualityRegressor(object):
+
+    def __init__(self, featurizer):
+        self.featurizer = featurizer
+    
+    def featurize(object):
+        return self.featurizer(object)
+    
+    def train(self, objects, values):
+        raise NotImplementedError("Subclasses should override.")
+
+    def predict(self, object):
+        raise NotImplementedError("Subclasses should override.")
+
+
+# OLSQualityRegressor #########################################
+
+class OLSQualityRegressor(SentenceQualityRegressor):
+    
+    def __init__(self, featurizer):
+        super(OLSQualityRegressor, self).__init__(featurizer)
+        self.lr = ashlib.ml.regressor.LinearRegressor()
+
+    def train(self, objects, values):
+        self.lr.train(objects, values)
+
+    def predict(self, object):
+        return self.lr.predict(object)
 
 # SentenceQualityPredictor ####################################
 
 
-class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
+class SentenceQualityPredictor(object):
 
-    def __init__(self, sentenceQualityCalculator, sentenceFeaturizer):
+    def __init__(self, sentenceQualityCalculator, sentenceFeaturizer, sentenceQualityRegressor):
         super(SentenceQualityPredictor, self).__init__()
-        self.qualityCalculator = sentenceQualityCalculator
-        self.featurizer = sentenceFeaturizer
+        self.qualityCalculator = sentenceQualityCalculator()
+        self.featurizer = sentenceFeaturizer()
+        self.sentenceQualityRegressor = sentenceQualityRegressor(self.featurizer.featurize)
     
     def calibrate(self, storyText):
         self.featurizer.calibrate(storyText)
 
     def predict(self, sentence):
-        return ashlib.util.maths.sigmoid(super(
-                    SentenceQualityPredictor, self).predict(sentence))
-
-    def featurize(self, sentence):
-        self.featurizer.featurize(sentence)
+        return ashlib.util.maths.sigmoid(self.sentenceQualityRegressor.predict(sentence))
 
     def train(self, dataSet):
         self.featurizer.train(dataSet)
@@ -79,8 +99,7 @@ class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
                 qualityScores.append(
                     self.qualityCalculator.calculate(sentence))
 
-        super(GeneralSentenceQualityPredictor, self).train(
-            sentences, qualityScores)
+        self.sentenceQualityRegressor.train(sentences, qualityScores)
 
 # SentenceQualityCalculator ################################################
 

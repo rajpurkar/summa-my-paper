@@ -14,7 +14,8 @@ import ashlib.ling.pos
 import ashlib.ling.stem
 import ashlib.ling.ner
 
-STORIES_DIRECTORY = os.path.join("..", "data")
+base_directory = os.path.dirname(os.path.abspath(__file__))
+STORIES_DIRECTORY = os.path.abspath(os.path.join(base_directory, "../data/"))
 GRIMM_DIRECTORY = os.path.join(STORIES_DIRECTORY, "grimm-stories")
 OLD_DIRECTORY = os.path.join(STORIES_DIRECTORY, "old-stories")
 WIKIPEDIA_DIRECTORY = os.path.join(STORIES_DIRECTORY, "wikipedia-stories")
@@ -84,6 +85,10 @@ class DataSet(list):
     def readCache(cls):
         return cls.fromDirectories(STORIES_DIRECTORY, readFromCache=True)
 
+    @classmethod
+    def readWithoutCache(cls):
+        return cls.fromDirectories(STORIES_DIRECTORY, readFromCache=False, writeToCache=True)
+
 ## Story #########################################################################################
 
 class Story(object):
@@ -105,7 +110,7 @@ class Story(object):
         for summary in self.summaries:
             summary.parse()
         
-        if VERBOSE: print("Finished parsing story", self.name)
+        if VERBOSE: print(("Finished parsing story", self.name))
 
     @classmethod
     def fromDirectory(cls, dirPath, readFromCache=False, writeToCache=False, shouldParse=False, modification=None):
@@ -141,7 +146,7 @@ class Story(object):
 
         if writeToCache:
             ashlib.util.cache.dump(story, os.path.join(dirPath, CACHE_FILE_NAME))
-            if VERBOSE: print("Cached story:", story.name)
+            if VERBOSE: print(("Cached story:", story.name))
 
         return story
 
@@ -235,7 +240,7 @@ class Sentence(object):
         self.posTags = ashlib.ling.pos.tag(words)
         self.nerTags = None ## TODO: update later
         
-        if VERBOSE: print("Finished parsing sentence:", self.content())
+        if VERBOSE: print(("Finished parsing sentence:", self.content()))
     
     def removeWord(self, index):
         del self.words[index]

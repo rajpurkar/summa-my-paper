@@ -7,7 +7,7 @@ import nltk.stem.wordnet
 import ashlib.ml.regressor
 import ashlib.ling.corpus
 import ashlib.util.maths
-import ashlib.ling.pos
+import ashlib.ling.stem
 
 ## SentenceFeaturizer #################################################################################
 
@@ -83,12 +83,10 @@ class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
 class SentenceQualityCalculator(object):
 
     def __init__(self):
-        self.lemmatizer = nltk.stem.wordnet.WordNetLemmatizer()
+        pass
     
     def preprocess(self, words):
-        tags = ashlib.ling.pos.tag(words)
-        for word, index in enumerate(words):
-            words[index] = lemmatizer.lemmatize(word, tag)
+        words = ashlib.ling.stem.lemmatize(words)
         return ashlib.ling.corpus.removeStopWords(words)
     
     def calibrate(self, summary):
@@ -102,7 +100,7 @@ class SentenceQualityCalculator(object):
 class PrecisionQualityCalculator(SentenceQualityCalculator):
     
     def __init__(self):
-        super(SentenceQualityCalculator, self).__init__()
+        super(PrecisionQualityCalculator, self).__init__()
         self.summaryWords = None
     
     def calibrate(self, summary):
@@ -123,7 +121,7 @@ class PrecisionQualityCalculator(SentenceQualityCalculator):
 class SimilarityQualityCalculator(SentenceQualityCalculator):
     
     def __init__(self, sentenceSimilarityCalculator):
-        super(SentenceQualityCalculator, self).__init__()
+        super(SimilarityQualityCalculator, self).__init__()
         self.similarityCalculator = sentenceSimilarityCalculator
         self.summarySentences = None
     

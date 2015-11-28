@@ -31,7 +31,7 @@ VERBOSE = True
 ## functions #####################################################################################
 
 def defaultDataSet():
-    return DataSet.fromDirectories(os.path.join("..", "data"))
+    return DataSet.readCache()
 
 ## DataSet #######################################################################################
 
@@ -149,7 +149,7 @@ class Document(object):
     ## TODO: would be good to write some sentence insertion and removal methods. Remember to change indices of affected sentences when do so.
 
     def __init__(self, content):
-        self.gloss = content
+        self.__initialContent = content
         self.sentences = []
     
     def parse(self, languageProcessor):
@@ -206,7 +206,7 @@ class Document(object):
 class Sentence():
     
     def __init__(self, content, index):
-        self.gloss = content
+        self.__initialContent = content
         self.index = index
         
         self.words = None

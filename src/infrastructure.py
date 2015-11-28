@@ -11,7 +11,7 @@ import ashlib.util.cache
 import ashlib.util.str_
 import ashlib.util.list_
 
-STORIES_DIRECTORY = os.path.join("..", "data", "stories")
+STORIES_DIRECTORY = os.path.join("..", "data")
 GRIMM_DIRECTORY = os.path.join(STORIES_DIRECTORY, "grimm-stories")
 OLD_DIRECTORY = os.path.join(STORIES_DIRECTORY, "old-stories")
 WIKIPEDIA_DIRECTORY = os.path.join(STORIES_DIRECTORY, "wikipedia-stories")
@@ -149,7 +149,7 @@ class Document(object):
     ## TODO: would be good to write some sentence insertion and removal methods. Remember to change indices of affected sentences when do so.
 
     def __init__(self, content):
-        self.__initialContent = content
+        self.gloss = content
         self.sentences = []
     
     def parse(self, languageProcessor):
@@ -206,7 +206,7 @@ class Document(object):
 class Sentence():
     
     def __init__(self, content, index):
-        self.__initialContent = content
+        self.gloss = content
         self.index = index
         
         self.words = None

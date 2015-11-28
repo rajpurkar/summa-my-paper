@@ -2,9 +2,12 @@ import sys
 import os
 import collections
 
+import nltk.stem.wordnet
+
 import ashlib.ml.regressor
 import ashlib.ling.corpus
 import ashlib.util.maths
+import ashlib.ling.pos
 
 ## SentenceFeaturizer #################################################################################
 
@@ -15,23 +18,41 @@ class SentenceFeaturizer(object):
 
     def train(self, dataSet):
         # data set-level supervised learning
-        raise NotImplementedError("Not implemented.")
+        pass
 
     def calibrate(self, document):
         # document-specific unsupervised learning
-        raise NotImplementedError("Not implemented.")
+        pass
 
     def featurize(self, sentence):
-        raise NotImplementedError("Not implemented.")
+        raise NotImplementedError("Subclasses should override.")
+
+## SentenceFeaturizer #################################################################################
+
+class BOWFeaturizer(SentenceFeaturizer):
+    
+    def __init__(self):
+        pass
+    
+    def train(self, dataSet):
+        # data set-level supervised learning
+        pass
+    
+    def calibrate(self, document):
+        # document-specific unsupervised learning
+        pass
+    
+    def featurize(self, sentence):
+        return sentence.words
 
 ## SentenceQualityPredictor ###########################################################################
 
 class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
 
-    def __init__(self, sentenceQualityCalculator):
+    def __init__(self, sentenceQualityCalculator, sentenceFeaturizer):
         super(SentenceQualityPredictor, self).__init__()
         self.qualityCalculator = sentenceQualityCalculator
-        self.featurizer = SentenceFeaturizer()
+        self.featurizer = sentenceFeaturizer
     
     def calibrate(self, storyText):
         self.featurizer.calibrate(storyText)
@@ -62,11 +83,13 @@ class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
 class SentenceQualityCalculator(object):
 
     def __init__(self):
-        pass
+        self.lemmatizer = nltk.stem.wordnet.WordNetLemmatizer()
     
     def preprocess(self, words):
-        ## TODO: could also lemmatize words here
-        return ashlib.ling.corpus.removeStopWords(words))
+        tags = ashlib.ling.pos.tag(words)
+        for word, index in enumerate(words):
+            words[index] = lemmatizer.lemmatize(word, tag)
+        return ashlib.ling.corpus.removeStopWords(words)
     
     def calibrate(self, summary):
         raise NotImplementedError("Subclasses should override.")

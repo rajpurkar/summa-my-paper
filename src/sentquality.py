@@ -54,13 +54,8 @@ class SentenceQualityPredictor(ashlib.ml.regressor.LinearRegressor):
     def __init__(self, sentenceQualityCalculator, sentenceFeaturizer):
         super(SentenceQualityPredictor, self).__init__()
         self.qualityCalculator = sentenceQualityCalculator
-<<<<<<< HEAD
         self.featurizer = sentenceFeaturizer
     
-=======
-        self.featurizer = SentenceFeaturizer()
-
->>>>>>> aa56f2382652196a04996834b68f7c85c00ac1f7
     def calibrate(self, storyText):
         self.featurizer.calibrate(storyText)
 
